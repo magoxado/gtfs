@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Székesfehérvár Trip Planner</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css">
+    <!-- Load gtfsData.js first, as it will handle initializing the app -->
+    <script src="gtfsData.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Székesfehérvár Trip Planner</h1>
+            <div class="current-time">
+                <span id="current-date"></span>
+                <span id="current-time"></span>
+            </div>
+        </header>
+
+        <div class="search-panel">
+            <div class="form-group">
+                <label for="from-stop">From:</label>
+                <input type="text" id="from-stop" placeholder="Enter origin stop...">
+                <div id="from-suggestions" class="suggestions"></div>
+            </div>
+            
+            <div class="form-group">
+                <label for="to-stop">To:</label>
+                <input type="text" id="to-stop" placeholder="Enter destination stop...">
+                <div id="to-suggestions" class="suggestions"></div>
+            </div>
+            
+            <div class="time-selector">
+                <div class="form-group">
+                    <label for="date-select">Date:</label>
+                    <input type="date" id="date-select">
+                </div>
+                
+                <div class="form-group">
+                    <label for="time-select">Time:</label>
+                    <input type="time" id="time-select">
+                </div>
+                
+                <div class="form-group">
+                    <label for="time-option">Departure/Arrival:</label>
+                    <select id="time-option">
+                        <option value="departure" selected>Departure</option>
+                        <option value="arrival">Arrival</option>
+                    </select>
+                </div>
+            </div>
+            
+            <button id="search-button">Find Routes</button>
+        </div>
+        
+        <div class="results-container">
+            <div id="map"></div>
+            <div class="route-results">
+                <h2>Route Options</h2>
+                <div id="route-list"></div>
+            </div>
+        </div>
+    </div>
+        
+        <!-- Rest of the HTML remains the same -->
+    </div>
+    
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>
