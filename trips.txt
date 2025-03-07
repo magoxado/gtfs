@@ -1,0 +1,2733 @@
+route_id,trip_id,service_id,trip_headsign,direction_id,shape_id
+100,100A0HP0435,HP,Orsovai utca,0,bgrt
+100,100A0HP0455,HP,Orsovai utca,0,bgrt
+100,100A0HP0520,HP,Orsovai utca,0,bgrt
+100,100A0HP0550,HP,Orsovai utca,0,bgrt
+100,100A0HP0615,HP,Orsovai utca,0,bgrt
+100,100A0HP0650,HP,Orsovai utca,0,bgrt
+100,100A0HP0720,HP,Orsovai utca,0,bgrt
+100,100A0HP0820,HP,Orsovai utca,0,bgrt
+100,100A0HP0920,HP,Orsovai utca,0,bgrt
+100,100A0HP1020,HP,Orsovai utca,0,bgrt
+100,100A0HP1120,HP,Orsovai utca,0,bgrt
+100,100A0HP1220,HP,Orsovai utca,0,bgrt
+100,100A0HP1245,HP,Orsovai utca,0,bgrt
+100,100A0HP1320,HP,Orsovai utca,0,bgrt
+100,100A0HP1350,HP,Orsovai utca,0,bgrt
+100,100A0HP1420,HP,Orsovai utca,0,bgrt
+100,100A0HP1450,HP,Orsovai utca,0,bgrt
+100,100A0HP1520,HP,Orsovai utca,0,bgrt
+100,100A0HP1550,HP,Orsovai utca,0,bgrt
+100,100A0HP1620,HP,Orsovai utca,0,bgrt
+100,100A0HP1650,HP,Orsovai utca,0,bgrt
+100,100A0HP1720,HP,Orsovai utca,0,bgrt
+100,100A0HP1750,HP,Orsovai utca,0,bgrt
+100,100A0HP1820,HP,Orsovai utca,0,bgrt
+100,100A0HP1900,HP,Orsovai utca,0,bgrt
+100,100A0HP1925,HP,Orsovai utca,0,bgrt
+100,100A0HP2025,HP,Orsovai utca,0,bgrt
+100,100A0HP2120,HP,Orsovai utca,0,bgrt
+100,100A0HP2235,HP,Orsovai utca,0,bgrt
+100,100A0SZ0435,SZ,Orsovai utca,0,bgrt
+100,100A0SZ0520,SZ,Orsovai utca,0,bgrt
+100,100A0SZ0625,SZ,Orsovai utca,0,bgrt
+100,100A0SZ0720,SZ,Orsovai utca,0,bgrt
+100,100A0SZ0820,SZ,Orsovai utca,0,bgrt
+100,100A0SZ0920,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1020,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1120,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1220,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1320,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1425,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1520,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1620,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1720,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1820,SZ,Orsovai utca,0,bgrt
+100,100A0SZ1925,SZ,Orsovai utca,0,bgrt
+100,100A0SZ2025,SZ,Orsovai utca,0,bgrt
+100,100A0SZ2120,SZ,Orsovai utca,0,bgrt
+100,100A0SZ2235,SZ,Orsovai utca,0,bgrt
+100,100A0VV0435,VV,Orsovai utca,0,bgrt
+100,100A0VV0520,VV,Orsovai utca,0,bgrt
+100,100A0VV0625,VV,Orsovai utca,0,bgrt
+100,100A0VV0720,VV,Orsovai utca,0,bgrt
+100,100A0VV0820,VV,Orsovai utca,0,bgrt
+100,100A0VV0920,VV,Orsovai utca,0,bgrt
+100,100A0VV1020,VV,Orsovai utca,0,bgrt
+100,100A0VV1120,VV,Orsovai utca,0,bgrt
+100,100A0VV1220,VV,Orsovai utca,0,bgrt
+100,100A0VV1320,VV,Orsovai utca,0,bgrt
+100,100A0VV1425,VV,Orsovai utca,0,bgrt
+100,100A0VV1520,VV,Orsovai utca,0,bgrt
+100,100A0VV1620,VV,Orsovai utca,0,bgrt
+100,100A0VV1720,VV,Orsovai utca,0,bgrt
+100,100A0VV1820,VV,Orsovai utca,0,bgrt
+100,100A0VV1925,VV,Orsovai utca,0,bgrt
+100,100A0VV2025,VV,Orsovai utca,0,bgrt
+100,100A0VV2120,VV,Orsovai utca,0,bgrt
+100,100A0VV2235,VV,Orsovai utca,0,bgrt
+100,100A1HP0450,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0500,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0525,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0545,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0615,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0635,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0715,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0745,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0845,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP0945,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1045,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1145,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1245,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1305,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1345,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1415,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1445,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1515,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1545,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1615,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1645,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1715,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1745,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1815,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1845,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1925,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP1945,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP2045,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1HP2205,HP,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0450,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0545,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0645,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0745,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0845,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ0945,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1045,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1145,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1245,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1345,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1445,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1545,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1645,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1745,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1845,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ1945,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ2045,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1SZ2205,SZ,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0450,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0545,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0645,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0745,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0845,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV0945,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1045,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1145,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1245,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1345,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1445,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1545,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1645,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1745,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1845,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV1945,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV2045,VV,Szedreskerti lakónegyed,1,7nyw
+100,100A1VV2205,VV,Szedreskerti lakónegyed,1,7nyw
+100,100B0HP2405,HP,Orsovai utca,0,gm3a
+100,100B0SZ2405,SZ,Orsovai utca,0,gm3a
+100,100B0VV2405,VV,Orsovai utca,0,gm3a
+100,100B1IS0655,IS,Autóbusz-állomás,1,gtm7
+10G,10GA0IS0725,IS,Rádiótelep,0,2vsd
+110,110A0HP0435,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0525,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0600,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0630,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0650,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0720,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0745,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0845,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP0945,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1045,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1145,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1240,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1345,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1420,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1445,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1545,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1645,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1745,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1845,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP1950,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP2040,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP2145,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0HP2235,HP,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0440,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0525,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0645,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0745,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0845,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ0945,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1045,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1145,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1240,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1345,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1445,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1545,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1645,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1745,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1845,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ1950,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ2040,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ2145,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0SZ2235,SZ,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0440,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0525,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0645,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0745,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0845,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV0945,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1045,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1145,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1240,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1345,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1445,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1545,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1645,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1745,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1845,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV1950,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV2040,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV2145,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A0VV2235,VV,Vásárhelyi úti lakótelep,0,p0en
+110,110A1HP0455,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0535,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0600,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0655,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0715,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0745,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0815,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP0915,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1015,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1115,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1215,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1305,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1345,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1415,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1445,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1515,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1615,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1715,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1815,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP1915,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP2015,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP2105,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1HP2210,HP,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ0500,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ0610,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ0715,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ0815,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ0915,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1015,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1115,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1215,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1305,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1415,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1515,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1615,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1715,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1815,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ1915,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ2015,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ2105,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1SZ2210,SZ,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV0500,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV0610,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV0715,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV0815,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV0915,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1015,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1115,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1215,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1305,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1415,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1515,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1615,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1715,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1815,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV1915,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV2015,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV2105,VV,Szedreskerti lakónegyed,1,3w6w
+110,110A1VV2210,VV,Szedreskerti lakónegyed,1,3w6w
+11A,11AA0HP0720,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP0820,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP0920,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1020,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1120,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1220,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1320,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1520,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1620,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1720,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP1820,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0HP2120,HP,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ0620,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ0720,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ0820,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ0920,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ1020,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ1120,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ1220,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA0SZ1320,SZ,Sóstói bevásárlóközpont,0,kv06
+11A,11AA1HP0610,HP,Csapó utca,1,rdna
+11A,11AA1HP0845,HP,Csapó utca,1,rdna
+11A,11AA1HP0945,HP,Csapó utca,1,rdna
+11A,11AA1HP1045,HP,Csapó utca,1,rdna
+11A,11AA1HP1145,HP,Csapó utca,1,rdna
+11A,11AA1HP1245,HP,Csapó utca,1,rdna
+11A,11AA1HP1545,HP,Csapó utca,1,rdna
+11A,11AA1HP1645,HP,Csapó utca,1,rdna
+11A,11AA1HP1745,HP,Csapó utca,1,rdna
+11A,11AA1HP1845,HP,Csapó utca,1,rdna
+11A,11AA1SZ0645,SZ,Csapó utca,1,rdna
+11A,11AA1SZ0745,SZ,Csapó utca,1,rdna
+11A,11AA1SZ0845,SZ,Csapó utca,1,rdna
+11A,11AA1SZ0945,SZ,Csapó utca,1,rdna
+11A,11AA1SZ1045,SZ,Csapó utca,1,rdna
+11A,11AA1SZ1145,SZ,Csapó utca,1,rdna
+11A,11AA1SZ1245,SZ,Csapó utca,1,rdna
+11A,11AA1SZ1345,SZ,Csapó utca,1,rdna
+11A,11AB0HP0510,HP,Sóstói bevásárlóközpont,0,1zpb
+11A,11AB1HP2210,HP,Szedreskerti lakónegyed,1,cq37
+11G,11GA1HP1405,HP,Csapó utca,1,kkp3
+120,120A0HP0445,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP0530,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP0630,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP0730,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP0830,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP0930,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1030,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1130,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1230,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1330,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1430,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1530,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1630,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1730,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1830,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP1930,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP2030,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP2130,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0HP2230,HP,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0445,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0530,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0630,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0730,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0830,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ0930,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1030,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1130,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1230,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1330,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1430,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1530,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1630,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1730,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1830,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ1930,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ2030,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ2130,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0SZ2230,SZ,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0445,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0530,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0630,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0730,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0830,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV0930,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1030,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1130,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1230,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1330,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1430,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1530,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1630,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1730,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1830,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV1930,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV2030,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV2130,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A0VV2230,VV,Sóstói bevásárlóközpont,0,h3u7
+120,120A1HP0505,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP0555,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP0655,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP0755,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP0855,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP0955,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1055,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1155,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1255,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1355,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1455,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1555,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1655,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1755,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1855,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP1955,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP2100,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1HP2210,HP,Szedreskerti lakónegyed,1,w53h
+120,120A1IS0715,IS,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0505,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0555,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0655,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0755,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0855,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ0955,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1055,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1155,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1255,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1355,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1455,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1555,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1655,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1755,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1855,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ1955,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ2100,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1SZ2210,SZ,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0505,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0555,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0655,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0755,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0855,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV0955,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1055,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1155,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1255,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1355,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1455,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1555,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1655,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1755,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1855,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV1955,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV2100,VV,Szedreskerti lakónegyed,1,w53h
+120,120A1VV2210,VV,Szedreskerti lakónegyed,1,w53h
+12A,12AA0HP0515,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP0615,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP0655,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP0805,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP0905,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1005,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1105,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1205,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1305,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1405,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1505,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1605,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1705,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1805,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP1905,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0HP2005,HP,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ0705,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ0805,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ0905,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ1005,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ1105,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ1205,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ1305,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA0SZ1350,SZ,Sóstói bevásárlóközpont,0,oid6
+12A,12AA1HP0450,HP,Csapó utca,1,u6iz
+12A,12AA1HP0535,HP,Csapó utca,1,u6iz
+12A,12AA1HP0635,HP,Csapó utca,1,u6iz
+12A,12AA1HP0825,HP,Csapó utca,1,u6iz
+12A,12AA1HP0925,HP,Csapó utca,1,u6iz
+12A,12AA1HP1025,HP,Csapó utca,1,u6iz
+12A,12AA1HP1125,HP,Csapó utca,1,u6iz
+12A,12AA1HP1225,HP,Csapó utca,1,u6iz
+12A,12AA1HP1325,HP,Csapó utca,1,u6iz
+12A,12AA1HP1425,HP,Csapó utca,1,u6iz
+12A,12AA1HP1525,HP,Csapó utca,1,u6iz
+12A,12AA1HP1625,HP,Csapó utca,1,u6iz
+12A,12AA1HP1725,HP,Csapó utca,1,u6iz
+12A,12AA1HP1825,HP,Csapó utca,1,u6iz
+12A,12AA1HP1925,HP,Csapó utca,1,u6iz
+12A,12AA1HP2025,HP,Csapó utca,1,u6iz
+12A,12AA1SZ0725,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ0825,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ0925,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ1025,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ1125,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ1225,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ1325,SZ,Csapó utca,1,u6iz
+12A,12AA1SZ1410,SZ,Csapó utca,1,u6iz
+12A,12AA1TS0715,TS,Csapó utca,1,u6iz
+12Y,12YA0HP0610,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0HP1410,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0HP1510,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0HP1610,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0HP1810,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0HP2210,HP,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0SZ0610,SZ,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0SZ1410,SZ,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0SZ1810,SZ,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0SZ2210,SZ,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0VV0610,VV,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0VV1410,VV,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0VV1810,VV,Fecskeparti lakótelep,0,o3fp
+12Y,12YA0VV2210,VV,Fecskeparti lakótelep,0,o3fp
+12Y,12YA1HP0510,HP,Babér utca,1,u9o9
+12Y,12YA1HP0520,HP,Babér utca,1,u9o9
+12Y,12YA1HP0610,HP,Babér utca,1,u9o9
+12Y,12YA1HP0710,HP,Babér utca,1,u9o9
+12Y,12YA1HP1310,HP,Babér utca,1,u9o9
+12Y,12YA1HP1710,HP,Babér utca,1,u9o9
+12Y,12YA1HP2110,HP,Babér utca,1,u9o9
+12Y,12YA1SZ0510,SZ,Babér utca,1,u9o9
+12Y,12YA1SZ1310,SZ,Babér utca,1,u9o9
+12Y,12YA1SZ1710,SZ,Babér utca,1,u9o9
+12Y,12YA1SZ2110,SZ,Babér utca,1,u9o9
+12Y,12YA1VV0510,VV,Babér utca,1,u9o9
+12Y,12YA1VV1310,VV,Babér utca,1,u9o9
+12Y,12YA1VV1710,VV,Babér utca,1,u9o9
+12Y,12YA1VV2110,VV,Babér utca,1,u9o9
+13G,13GA0HP0430,HP,Babér utca,0,guyz
+13G,13GA0HP0510,HP,Babér utca,0,guyz
+13G,13GA0HP0520,HP,Babér utca,0,guyz
+13G,13GA0HP0620,HP,Babér utca,0,guyz
+13G,13GA0SZ0430,SZ,Babér utca,0,guyz
+13G,13GA0VV0430,VV,Babér utca,0,guyz
+13G,13GA1HP1405,HP,Autóbusz-állomás,1,vno6
+13G,13GA1HP1505,HP,Autóbusz-állomás,1,vno6
+13G,13GA1HP1805,HP,Autóbusz-állomás,1,vno6
+13G,13GA1SZ1505,SZ,Autóbusz-állomás,1,vno6
+13G,13GA1VV1505,VV,Autóbusz-állomás,1,vno6
+13G,13GB0IS0715,IS,Tejüzem,0,11pu
+140,140A0HP0435,HP,Köfém lakótelep,0,nb57
+140,140A0HP0510,HP,Köfém lakótelep,0,nb57
+140,140A0HP0600,HP,Köfém lakótelep,0,nb57
+140,140A0HP0625,HP,Köfém lakótelep,0,nb57
+140,140A0HP0650,HP,Köfém lakótelep,0,nb57
+140,140A0HP0720,HP,Köfém lakótelep,0,nb57
+140,140A0HP0755,HP,Köfém lakótelep,0,nb57
+140,140A0HP0825,HP,Köfém lakótelep,0,nb57
+140,140A0HP0855,HP,Köfém lakótelep,0,nb57
+140,140A0HP0925,HP,Köfém lakótelep,0,nb57
+140,140A0HP0955,HP,Köfém lakótelep,0,nb57
+140,140A0HP1025,HP,Köfém lakótelep,0,nb57
+140,140A0HP1055,HP,Köfém lakótelep,0,nb57
+140,140A0HP1125,HP,Köfém lakótelep,0,nb57
+140,140A0HP1155,HP,Köfém lakótelep,0,nb57
+140,140A0HP1225,HP,Köfém lakótelep,0,nb57
+140,140A0HP1255,HP,Köfém lakótelep,0,nb57
+140,140A0HP1325,HP,Köfém lakótelep,0,nb57
+140,140A0HP1355,HP,Köfém lakótelep,0,nb57
+140,140A0HP1425,HP,Köfém lakótelep,0,nb57
+140,140A0HP1455,HP,Köfém lakótelep,0,nb57
+140,140A0HP1525,HP,Köfém lakótelep,0,nb57
+140,140A0HP1555,HP,Köfém lakótelep,0,nb57
+140,140A0HP1625,HP,Köfém lakótelep,0,nb57
+140,140A0HP1655,HP,Köfém lakótelep,0,nb57
+140,140A0HP1725,HP,Köfém lakótelep,0,nb57
+140,140A0HP1755,HP,Köfém lakótelep,0,nb57
+140,140A0HP1855,HP,Köfém lakótelep,0,nb57
+140,140A0HP1955,HP,Köfém lakótelep,0,nb57
+140,140A0HP2125,HP,Köfém lakótelep,0,nb57
+140,140A0HP2230,HP,Köfém lakótelep,0,nb57
+140,140A0SZ0435,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0510,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0600,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0630,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0655,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0725,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0755,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0825,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0855,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0925,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ0955,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1025,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1055,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1125,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1155,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1225,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1255,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1355,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1455,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1555,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1655,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1755,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1855,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ1955,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ2125,SZ,Köfém lakótelep,0,nb57
+140,140A0SZ2230,SZ,Köfém lakótelep,0,nb57
+140,140A0VV0435,VV,Köfém lakótelep,0,nb57
+140,140A0VV0510,VV,Köfém lakótelep,0,nb57
+140,140A0VV0600,VV,Köfém lakótelep,0,nb57
+140,140A0VV0655,VV,Köfém lakótelep,0,nb57
+140,140A0VV0755,VV,Köfém lakótelep,0,nb57
+140,140A0VV0855,VV,Köfém lakótelep,0,nb57
+140,140A0VV0955,VV,Köfém lakótelep,0,nb57
+140,140A0VV1055,VV,Köfém lakótelep,0,nb57
+140,140A0VV1155,VV,Köfém lakótelep,0,nb57
+140,140A0VV1255,VV,Köfém lakótelep,0,nb57
+140,140A0VV1355,VV,Köfém lakótelep,0,nb57
+140,140A0VV1455,VV,Köfém lakótelep,0,nb57
+140,140A0VV1555,VV,Köfém lakótelep,0,nb57
+140,140A0VV1655,VV,Köfém lakótelep,0,nb57
+140,140A0VV1755,VV,Köfém lakótelep,0,nb57
+140,140A0VV1855,VV,Köfém lakótelep,0,nb57
+140,140A0VV1955,VV,Köfém lakótelep,0,nb57
+140,140A0VV2125,VV,Köfém lakótelep,0,nb57
+140,140A0VV2230,VV,Köfém lakótelep,0,nb57
+140,140A1HP0455,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0535,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0555,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0625,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0650,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0720,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0750,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0825,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0855,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0925,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP0955,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1025,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1055,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1125,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1155,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1225,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1255,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1320,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1355,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1425,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1455,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1525,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1555,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1625,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1655,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1725,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1755,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1825,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP1925,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP2020,HP,Szedreskerti lakónegyed,1,onav
+140,140A1HP2220,HP,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0455,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0535,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0625,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0655,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0725,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0755,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0825,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0855,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0925,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ0955,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1025,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1055,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1125,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1155,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1225,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1255,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1320,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1425,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1525,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1625,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1725,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1825,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ1925,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ2020,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1SZ2220,SZ,Szedreskerti lakónegyed,1,onav
+140,140A1VV0455,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV0535,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV0625,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV0725,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV0825,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV0925,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1025,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1125,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1225,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1320,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1425,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1525,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1625,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1725,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1825,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV1925,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV2020,VV,Szedreskerti lakónegyed,1,onav
+140,140A1VV2220,VV,Szedreskerti lakónegyed,1,onav
+14G,14GA0HP0530,HP,Babér utca,0,07np
+14G,14GA0HP0730,HP,Babér utca,0,07np
+14G,14GA0HP1325,HP,Babér utca,0,07np
+14G,14GA0HP1725,HP,Babér utca,0,07np
+14G,14GA0HP2125,HP,Babér utca,0,07np
+14G,14GA0SZ0530,SZ,Babér utca,0,07np
+14G,14GA0SZ1325,SZ,Babér utca,0,07np
+14G,14GA0SZ1725,SZ,Babér utca,0,07np
+14G,14GA0SZ2125,SZ,Babér utca,0,07np
+14G,14GA0VV0530,VV,Babér utca,0,07np
+14G,14GA0VV1325,VV,Babér utca,0,07np
+14G,14GA0VV1725,VV,Babér utca,0,07np
+14G,14GA0VV2125,VV,Babér utca,0,07np
+14G,14GA1HP0610,HP,Autóbusz-állomás,1,opnt
+14G,14GA1HP1410,HP,Autóbusz-állomás,1,opnt
+14G,14GA1HP1440,HP,Autóbusz-állomás,1,opnt
+14G,14GA1HP1640,HP,Autóbusz-állomás,1,opnt
+14G,14GA1HP1810,HP,Autóbusz-állomás,1,opnt
+14G,14GA1HP2210,HP,Autóbusz-állomás,1,opnt
+14G,14GA1SZ0610,SZ,Autóbusz-állomás,1,opnt
+14G,14GA1SZ1410,SZ,Autóbusz-állomás,1,opnt
+14G,14GA1SZ1810,SZ,Autóbusz-állomás,1,opnt
+14G,14GA1SZ2210,SZ,Autóbusz-állomás,1,opnt
+14G,14GA1VV0610,VV,Autóbusz-állomás,1,opnt
+14G,14GA1VV1410,VV,Autóbusz-állomás,1,opnt
+14G,14GA1VV1810,VV,Autóbusz-állomás,1,opnt
+14G,14GA1VV2210,VV,Autóbusz-állomás,1,opnt
+150,150A0HP0520,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP0530,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP0735,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP1320,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP1330,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP1610,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP1730,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP2120,HP,Amerikai fasor forduló,0,v4pr
+150,150A0HP2130,HP,Amerikai fasor forduló,0,v4pr
+150,150A1HP0608,HP,Csapó utca,1,iwvj
+150,150A1HP0758,HP,Csapó utca,1,iwvj
+150,150A1HP1408,HP,Csapó utca,1,iwvj
+150,150A1HP1633,HP,Csapó utca,1,iwvj
+150,150A1HP1808,HP,Csapó utca,1,iwvj
+150,150A1HP2208,HP,Csapó utca,1,iwvj
+150,150B0HP0630,HP,Angol utca,0,fxs1
+150,150B0HP0705,HP,Angol utca,0,fxs1
+150,150B0HP1445,HP,Angol utca,0,fxs1
+150,150B0HP1525,HP,Angol utca,0,fxs1
+150,150B0HP1545,HP,Angol utca,0,fxs1
+150,150B0HP1645,HP,Angol utca,0,fxs1
+150,150B0SZ0525,SZ,Angol utca,0,fxs1
+150,150B0SZ1325,SZ,Angol utca,0,fxs1
+150,150B0SZ1730,SZ,Angol utca,0,fxs1
+150,150B0SZ2125,SZ,Angol utca,0,fxs1
+150,150B0VV0525,VV,Angol utca,0,fxs1
+150,150B0VV1325,VV,Angol utca,0,fxs1
+150,150B0VV1730,VV,Angol utca,0,fxs1
+150,150B0VV2125,VV,Angol utca,0,fxs1
+150,150B1HP0610,HP,Csapó utca,1,sn6h
+150,150B1HP0650,HP,Csapó utca,1,sn6h
+150,150B1HP0725,HP,Csapó utca,1,sn6h
+150,150B1HP1410,HP,Csapó utca,1,sn6h
+150,150B1HP14101,HP,Csapó utca,1,sn6h
+150,150B1HP1510,HP,Csapó utca,1,sn6h
+150,150B1HP1545,HP,Csapó utca,1,sn6h
+150,150B1HP1610,HP,Csapó utca,1,sn6h
+150,150B1HP1710,HP,Csapó utca,1,sn6h
+150,150B1HP2210,HP,Csapó utca,1,sn6h
+150,150B1SZ0610,SZ,Csapó utca,1,sn6h
+150,150B1SZ1410,SZ,Csapó utca,1,sn6h
+150,150B1SZ1810,SZ,Csapó utca,1,sn6h
+150,150B1SZ2210,SZ,Csapó utca,1,sn6h
+150,150B1VV0610,VV,Csapó utca,1,sn6h
+150,150B1VV1410,VV,Csapó utca,1,sn6h
+150,150B1VV1810,VV,Csapó utca,1,sn6h
+150,150B1VV2210,VV,Csapó utca,1,sn6h
+150,150C0HP0455,HP,Angol utca,0,ebdq
+150,150C0HP0500,HP,Angol utca,0,ebdq
+150,150C0HP1250,HP,Angol utca,0,ebdq
+150,150C0HP1300,HP,Angol utca,0,ebdq
+150,150C0HP2050,HP,Angol utca,0,ebdq
+150,150C0HP2100,HP,Angol utca,0,ebdq
+150,150C0SZ0500,SZ,Angol utca,0,ebdq
+150,150C0SZ1300,SZ,Angol utca,0,ebdq
+150,150C0SZ2100,SZ,Angol utca,0,ebdq
+150,150C0VV0500,VV,Angol utca,0,ebdq
+150,150C0VV1300,VV,Angol utca,0,ebdq
+150,150C0VV2100,VV,Angol utca,0,ebdq
+150,150C1HP0625,HP,Fecskeparti lakótelep,1,m49l
+150,150C1HP1425,HP,Fecskeparti lakótelep,1,m49l
+150,150C1HP2225,HP,Fecskeparti lakótelep,1,m49l
+150,150C1SZ0625,SZ,Fecskeparti lakótelep,1,m49l
+150,150C1SZ1425,SZ,Fecskeparti lakótelep,1,m49l
+150,150C1SZ2225,SZ,Fecskeparti lakótelep,1,m49l
+150,150C1VV0625,VV,Fecskeparti lakótelep,1,m49l
+150,150C1VV1425,VV,Fecskeparti lakótelep,1,m49l
+150,150C1VV2225,VV,Fecskeparti lakótelep,1,m49l
+15Y,15YA0HP0535,HP,Vásárhelyi úti lakótelep,0,5tu4
+15Y,15YA0HP0630,HP,Vásárhelyi úti lakótelep,0,5tu4
+15Y,15YA0HP1330,HP,Vásárhelyi úti lakótelep,0,5tu4
+15Y,15YA1HP1410,HP,Csapó utca,1,jxh1
+15Y,15YA1HP1510,HP,Csapó utca,1,jxh1
+160,160A0HP0600,HP,Babér utca,0,5u7t
+160,160A0HP1400,HP,Babér utca,0,5u7t
+160,160B0HP1509,HP,Babér utca,0,vj5u
+160,160B0HP1609,HP,Babér utca,0,vj5u
+160,160B0HP1709,HP,Babér utca,0,vj5u
+160,160C0HP0650,HP,Opole tér,0,t3ky
+160,160C0HP0930,HP,Opole tér,0,t3ky
+160,160C0HP1130,HP,Opole tér,0,t3ky
+160,160C1HP0925,HP,Börgönd,1,en3j
+160,160C1HP1125,HP,Börgönd,1,en3j
+160,160D0HP2200,HP,Opole tér,0,p3pi
+160,160D1HP2045,HP,Börgönd,1,om5q
+160,160E0HP0800,HP,Opole tér,0,zzbt
+160,160E0HP1320,HP,Opole tér,0,zzbt
+160,160E0HP1809,HP,Opole tér,0,zzbt
+160,160E1HP0445,HP,Babér utca,1,vdot
+160,160E1HP0545,HP,Babér utca,1,vdot
+160,160E1HP0745,HP,Babér utca,1,vdot
+160,160E1HP1245,HP,Babér utca,1,vdot
+170,170A0HP0445,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0510,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0525,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0555,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0625,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0645,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0715,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0740,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0840,HP,Köfém lakótelep,0,xn4x
+170,170A0HP0940,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1040,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1140,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1230,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1310,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1325,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1410,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1440,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1510,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1540,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1610,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1640,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1730,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1830,HP,Köfém lakótelep,0,xn4x
+170,170A0HP1930,HP,Köfém lakótelep,0,xn4x
+170,170A0HP2030,HP,Köfém lakótelep,0,xn4x
+170,170A0HP2110,HP,Köfém lakótelep,0,xn4x
+170,170A0SZ0510,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ0555,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ0645,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ0740,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ0840,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ0940,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1040,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1140,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1230,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1325,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1440,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1530,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1630,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1730,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1830,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ1930,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ2030,SZ,Köfém lakótelep,0,xn4x
+170,170A0SZ2110,SZ,Köfém lakótelep,0,xn4x
+170,170A0VV0510,VV,Köfém lakótelep,0,xn4x
+170,170A0VV0555,VV,Köfém lakótelep,0,xn4x
+170,170A0VV0645,VV,Köfém lakótelep,0,xn4x
+170,170A0VV0740,VV,Köfém lakótelep,0,xn4x
+170,170A0VV0840,VV,Köfém lakótelep,0,xn4x
+170,170A0VV0940,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1040,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1140,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1230,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1325,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1440,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1530,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1630,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1730,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1830,VV,Köfém lakótelep,0,xn4x
+170,170A0VV1930,VV,Köfém lakótelep,0,xn4x
+170,170A0VV2030,VV,Köfém lakótelep,0,xn4x
+170,170A0VV2110,VV,Köfém lakótelep,0,xn4x
+170,170A1HP0505,HP,Csapó utca,1,dm8j
+170,170A1HP0535,HP,Csapó utca,1,dm8j
+170,170A1HP0550,HP,Csapó utca,1,dm8j
+170,170A1HP0620,HP,Csapó utca,1,dm8j
+170,170A1HP0650,HP,Csapó utca,1,dm8j
+170,170A1HP0710,HP,Csapó utca,1,dm8j
+170,170A1HP0745,HP,Csapó utca,1,dm8j
+170,170A1HP0805,HP,Csapó utca,1,dm8j
+170,170A1HP0905,HP,Csapó utca,1,dm8j
+170,170A1HP1005,HP,Csapó utca,1,dm8j
+170,170A1HP1105,HP,Csapó utca,1,dm8j
+170,170A1HP1205,HP,Csapó utca,1,dm8j
+170,170A1HP1300,HP,Csapó utca,1,dm8j
+170,170A1HP1335,HP,Csapó utca,1,dm8j
+170,170A1HP1415,HP,Csapó utca,1,dm8j
+170,170A1HP1435,HP,Csapó utca,1,dm8j
+170,170A1HP1505,HP,Csapó utca,1,dm8j
+170,170A1HP1535,HP,Csapó utca,1,dm8j
+170,170A1HP1605,HP,Csapó utca,1,dm8j
+170,170A1HP1635,HP,Csapó utca,1,dm8j
+170,170A1HP1705,HP,Csapó utca,1,dm8j
+170,170A1HP1755,HP,Csapó utca,1,dm8j
+170,170A1HP1855,HP,Csapó utca,1,dm8j
+170,170A1HP1955,HP,Csapó utca,1,dm8j
+170,170A1HP2055,HP,Csapó utca,1,dm8j
+170,170A1HP2220,HP,Csapó utca,1,dm8j
+170,170A1SZ0535,SZ,Csapó utca,1,dm8j
+170,170A1SZ0620,SZ,Csapó utca,1,dm8j
+170,170A1SZ0710,SZ,Csapó utca,1,dm8j
+170,170A1SZ0805,SZ,Csapó utca,1,dm8j
+170,170A1SZ0905,SZ,Csapó utca,1,dm8j
+170,170A1SZ1005,SZ,Csapó utca,1,dm8j
+170,170A1SZ1105,SZ,Csapó utca,1,dm8j
+170,170A1SZ1205,SZ,Csapó utca,1,dm8j
+170,170A1SZ1255,SZ,Csapó utca,1,dm8j
+170,170A1SZ1415,SZ,Csapó utca,1,dm8j
+170,170A1SZ1505,SZ,Csapó utca,1,dm8j
+170,170A1SZ1555,SZ,Csapó utca,1,dm8j
+170,170A1SZ1655,SZ,Csapó utca,1,dm8j
+170,170A1SZ1755,SZ,Csapó utca,1,dm8j
+170,170A1SZ1855,SZ,Csapó utca,1,dm8j
+170,170A1SZ1955,SZ,Csapó utca,1,dm8j
+170,170A1SZ2055,SZ,Csapó utca,1,dm8j
+170,170A1SZ2220,SZ,Csapó utca,1,dm8j
+170,170A1VV0535,VV,Csapó utca,1,dm8j
+170,170A1VV0620,VV,Csapó utca,1,dm8j
+170,170A1VV0710,VV,Csapó utca,1,dm8j
+170,170A1VV0805,VV,Csapó utca,1,dm8j
+170,170A1VV0905,VV,Csapó utca,1,dm8j
+170,170A1VV1005,VV,Csapó utca,1,dm8j
+170,170A1VV1105,VV,Csapó utca,1,dm8j
+170,170A1VV1205,VV,Csapó utca,1,dm8j
+170,170A1VV1255,VV,Csapó utca,1,dm8j
+170,170A1VV1415,VV,Csapó utca,1,dm8j
+170,170A1VV1505,VV,Csapó utca,1,dm8j
+170,170A1VV1555,VV,Csapó utca,1,dm8j
+170,170A1VV1655,VV,Csapó utca,1,dm8j
+170,170A1VV1755,VV,Csapó utca,1,dm8j
+170,170A1VV1855,VV,Csapó utca,1,dm8j
+170,170A1VV1955,VV,Csapó utca,1,dm8j
+170,170A1VV2055,VV,Csapó utca,1,dm8j
+170,170A1VV2220,VV,Csapó utca,1,dm8j
+200,200A0HP0445,HP,Köfém lakótelep,0,n043
+200,200A0HP0545,HP,Köfém lakótelep,0,n043
+200,200A0HP0615,HP,Köfém lakótelep,0,n043
+200,200A0HP0645,HP,Köfém lakótelep,0,n043
+200,200A0HP0715,HP,Köfém lakótelep,0,n043
+200,200A0HP0745,HP,Köfém lakótelep,0,n043
+200,200A0HP0845,HP,Köfém lakótelep,0,n043
+200,200A0HP0945,HP,Köfém lakótelep,0,n043
+200,200A0HP1045,HP,Köfém lakótelep,0,n043
+200,200A0HP1145,HP,Köfém lakótelep,0,n043
+200,200A0HP1245,HP,Köfém lakótelep,0,n043
+200,200A0HP1345,HP,Köfém lakótelep,0,n043
+200,200A0HP1415,HP,Köfém lakótelep,0,n043
+200,200A0HP1445,HP,Köfém lakótelep,0,n043
+200,200A0HP1515,HP,Köfém lakótelep,0,n043
+200,200A0HP1545,HP,Köfém lakótelep,0,n043
+200,200A0HP1615,HP,Köfém lakótelep,0,n043
+200,200A0HP1645,HP,Köfém lakótelep,0,n043
+200,200A0HP1745,HP,Köfém lakótelep,0,n043
+200,200A0HP1845,HP,Köfém lakótelep,0,n043
+200,200A0HP1945,HP,Köfém lakótelep,0,n043
+200,200A0HP2045,HP,Köfém lakótelep,0,n043
+200,200A0HP2245,HP,Köfém lakótelep,0,n043
+200,200A0SZ0445,SZ,Köfém lakótelep,0,n043
+200,200A0SZ0645,SZ,Köfém lakótelep,0,n043
+200,200A0SZ0745,SZ,Köfém lakótelep,0,n043
+200,200A0SZ0845,SZ,Köfém lakótelep,0,n043
+200,200A0SZ1245,SZ,Köfém lakótelep,0,n043
+200,200A0SZ1445,SZ,Köfém lakótelep,0,n043
+200,200A0SZ1545,SZ,Köfém lakótelep,0,n043
+200,200A0SZ2045,SZ,Köfém lakótelep,0,n043
+200,200A0SZ2245,SZ,Köfém lakótelep,0,n043
+200,200A0VV0445,VV,Köfém lakótelep,0,n043
+200,200A0VV0645,VV,Köfém lakótelep,0,n043
+200,200A0VV0745,VV,Köfém lakótelep,0,n043
+200,200A0VV0845,VV,Köfém lakótelep,0,n043
+200,200A0VV1245,VV,Köfém lakótelep,0,n043
+200,200A0VV1445,VV,Köfém lakótelep,0,n043
+200,200A0VV1545,VV,Köfém lakótelep,0,n043
+200,200A0VV2045,VV,Köfém lakótelep,0,n043
+200,200A0VV2245,VV,Köfém lakótelep,0,n043
+200,200A1HP0515,HP,Hübner András utca,1,kegi
+200,200A1HP0545,HP,Hübner András utca,1,kegi
+200,200A1HP0645,HP,Hübner András utca,1,kegi
+200,200A1HP0715,HP,Hübner András utca,1,kegi
+200,200A1HP0745,HP,Hübner András utca,1,kegi
+200,200A1HP0815,HP,Hübner András utca,1,kegi
+200,200A1HP0915,HP,Hübner András utca,1,kegi
+200,200A1HP1015,HP,Hübner András utca,1,kegi
+200,200A1HP1115,HP,Hübner András utca,1,kegi
+200,200A1HP1215,HP,Hübner András utca,1,kegi
+200,200A1HP1315,HP,Hübner András utca,1,kegi
+200,200A1HP1345,HP,Hübner András utca,1,kegi
+200,200A1HP1445,HP,Hübner András utca,1,kegi
+200,200A1HP1515,HP,Hübner András utca,1,kegi
+200,200A1HP1545,HP,Hübner András utca,1,kegi
+200,200A1HP1615,HP,Hübner András utca,1,kegi
+200,200A1HP1630,HP,Hübner András utca,1,kegi
+200,200A1HP1645,HP,Hübner András utca,1,kegi
+200,200A1HP1715,HP,Hübner András utca,1,kegi
+200,200A1HP1915,HP,Hübner András utca,1,kegi
+200,200A1HP2015,HP,Hübner András utca,1,kegi
+200,200A1HP2045,HP,Hübner András utca,1,kegi
+200,200A1IS0700,IS,Hübner András utca,1,kegi
+200,200A1SZ0515,SZ,Hübner András utca,1,kegi
+200,200A1SZ0715,SZ,Hübner András utca,1,kegi
+200,200A1SZ0815,SZ,Hübner András utca,1,kegi
+200,200A1SZ0915,SZ,Hübner András utca,1,kegi
+200,200A1SZ1315,SZ,Hübner András utca,1,kegi
+200,200A1SZ1515,SZ,Hübner András utca,1,kegi
+200,200A1SZ1615,SZ,Hübner András utca,1,kegi
+200,200A1SZ2045,SZ,Hübner András utca,1,kegi
+200,200A1VV0515,VV,Hübner András utca,1,kegi
+200,200A1VV0715,VV,Hübner András utca,1,kegi
+200,200A1VV0815,VV,Hübner András utca,1,kegi
+200,200A1VV0915,VV,Hübner András utca,1,kegi
+200,200A1VV1315,VV,Hübner András utca,1,kegi
+200,200A1VV1515,VV,Hübner András utca,1,kegi
+200,200A1VV1615,VV,Hübner András utca,1,kegi
+200,200A1VV2045,VV,Hübner András utca,1,kegi
+200,200B0HP0510,HP,Babér utca,0,e8yg
+200,200B0HP1310,HP,Babér utca,0,e8yg
+200,200B0HP1710,HP,Babér utca,0,e8yg
+200,200B0HP2110,HP,Babér utca,0,e8yg
+200,200B0SZ0510,SZ,Babér utca,0,e8yg
+200,200B0SZ1310,SZ,Babér utca,0,e8yg
+200,200B0SZ1710,SZ,Babér utca,0,e8yg
+200,200B0SZ2110,SZ,Babér utca,0,e8yg
+200,200B0VV0510,VV,Babér utca,0,e8yg
+200,200B0VV1310,VV,Babér utca,0,e8yg
+200,200B0VV1710,VV,Babér utca,0,e8yg
+200,200B0VV2110,VV,Babér utca,0,e8yg
+200,200B1HP0611,HP,Hübner András utca,1,i5c5
+200,200B1HP1411,HP,Hübner András utca,1,i5c5
+200,200B1HP1811,HP,Hübner András utca,1,i5c5
+200,200B1HP2211,HP,Hübner András utca,1,i5c5
+200,200B1SZ0611,SZ,Hübner András utca,1,i5c5
+200,200B1SZ1411,SZ,Hübner András utca,1,i5c5
+200,200B1SZ1811,SZ,Hübner András utca,1,i5c5
+200,200B1SZ2211,SZ,Hübner András utca,1,i5c5
+200,200B1VV0611,VV,Hübner András utca,1,i5c5
+200,200B1VV1411,VV,Hübner András utca,1,i5c5
+200,200B1VV1811,VV,Hübner András utca,1,i5c5
+200,200B1VV2211,VV,Hübner András utca,1,i5c5
+220,220A0HP0435,HP,Kisfalud,0,3jx9
+220,220A0HP0530,HP,Kisfalud,0,3jx9
+220,220A0HP0605,HP,Kisfalud,0,3jx9
+220,220A0HP0635,HP,Kisfalud,0,3jx9
+220,220A0HP0705,HP,Kisfalud,0,3jx9
+220,220A0HP0735,HP,Kisfalud,0,3jx9
+220,220A0HP0805,HP,Kisfalud,0,3jx9
+220,220A0HP0835,HP,Kisfalud,0,3jx9
+220,220A0HP0905,HP,Kisfalud,0,3jx9
+220,220A0HP0935,HP,Kisfalud,0,3jx9
+220,220A0HP1005,HP,Kisfalud,0,3jx9
+220,220A0HP1035,HP,Kisfalud,0,3jx9
+220,220A0HP1105,HP,Kisfalud,0,3jx9
+220,220A0HP1135,HP,Kisfalud,0,3jx9
+220,220A0HP1205,HP,Kisfalud,0,3jx9
+220,220A0HP1235,HP,Kisfalud,0,3jx9
+220,220A0HP1335,HP,Kisfalud,0,3jx9
+220,220A0HP1410,HP,Kisfalud,0,3jx9
+220,220A0HP1435,HP,Kisfalud,0,3jx9
+220,220A0HP1505,HP,Kisfalud,0,3jx9
+220,220A0HP1535,HP,Kisfalud,0,3jx9
+220,220A0HP1605,HP,Kisfalud,0,3jx9
+220,220A0HP1635,HP,Kisfalud,0,3jx9
+220,220A0HP1705,HP,Kisfalud,0,3jx9
+220,220A0HP1735,HP,Kisfalud,0,3jx9
+220,220A0HP1805,HP,Kisfalud,0,3jx9
+220,220A0HP1835,HP,Kisfalud,0,3jx9
+220,220A0HP1905,HP,Kisfalud,0,3jx9
+220,220A0HP1935,HP,Kisfalud,0,3jx9
+220,220A0HP2005,HP,Kisfalud,0,3jx9
+220,220A0HP2035,HP,Kisfalud,0,3jx9
+220,220A0SZ0530,SZ,Kisfalud,0,3jx9
+220,220A0SZ0610,SZ,Kisfalud,0,3jx9
+220,220A0SZ0635,SZ,Kisfalud,0,3jx9
+220,220A0SZ0705,SZ,Kisfalud,0,3jx9
+220,220A0SZ0735,SZ,Kisfalud,0,3jx9
+220,220A0SZ0805,SZ,Kisfalud,0,3jx9
+220,220A0SZ0835,SZ,Kisfalud,0,3jx9
+220,220A0SZ0905,SZ,Kisfalud,0,3jx9
+220,220A0SZ0935,SZ,Kisfalud,0,3jx9
+220,220A0SZ1005,SZ,Kisfalud,0,3jx9
+220,220A0SZ1035,SZ,Kisfalud,0,3jx9
+220,220A0SZ1105,SZ,Kisfalud,0,3jx9
+220,220A0SZ1135,SZ,Kisfalud,0,3jx9
+220,220A0SZ1205,SZ,Kisfalud,0,3jx9
+220,220A0SZ1410,SZ,Kisfalud,0,3jx9
+220,220A0SZ1505,SZ,Kisfalud,0,3jx9
+220,220A0SZ1605,SZ,Kisfalud,0,3jx9
+220,220A0SZ1705,SZ,Kisfalud,0,3jx9
+220,220A0SZ1805,SZ,Kisfalud,0,3jx9
+220,220A0SZ1905,SZ,Kisfalud,0,3jx9
+220,220A0SZ2005,SZ,Kisfalud,0,3jx9
+220,220A0VV0610,VV,Kisfalud,0,3jx9
+220,220A0VV0705,VV,Kisfalud,0,3jx9
+220,220A0VV0805,VV,Kisfalud,0,3jx9
+220,220A0VV0905,VV,Kisfalud,0,3jx9
+220,220A0VV1005,VV,Kisfalud,0,3jx9
+220,220A0VV1105,VV,Kisfalud,0,3jx9
+220,220A0VV1205,VV,Kisfalud,0,3jx9
+220,220A0VV1410,VV,Kisfalud,0,3jx9
+220,220A0VV1505,VV,Kisfalud,0,3jx9
+220,220A0VV1605,VV,Kisfalud,0,3jx9
+220,220A0VV1705,VV,Kisfalud,0,3jx9
+220,220A0VV1805,VV,Kisfalud,0,3jx9
+220,220A0VV1905,VV,Kisfalud,0,3jx9
+220,220A0VV2005,VV,Kisfalud,0,3jx9
+220,220A1HP0455,HP,Jancsár utca,1,kz4q
+220,220A1HP0600,HP,Jancsár utca,1,kz4q
+220,220A1HP0700,HP,Jancsár utca,1,kz4q
+220,220A1HP0730,HP,Jancsár utca,1,kz4q
+220,220A1HP0805,HP,Jancsár utca,1,kz4q
+220,220A1HP0835,HP,Jancsár utca,1,kz4q
+220,220A1HP0905,HP,Jancsár utca,1,kz4q
+220,220A1HP0935,HP,Jancsár utca,1,kz4q
+220,220A1HP1005,HP,Jancsár utca,1,kz4q
+220,220A1HP1035,HP,Jancsár utca,1,kz4q
+220,220A1HP1105,HP,Jancsár utca,1,kz4q
+220,220A1HP1135,HP,Jancsár utca,1,kz4q
+220,220A1HP1205,HP,Jancsár utca,1,kz4q
+220,220A1HP1235,HP,Jancsár utca,1,kz4q
+220,220A1HP1305,HP,Jancsár utca,1,kz4q
+220,220A1HP1335,HP,Jancsár utca,1,kz4q
+220,220A1HP1435,HP,Jancsár utca,1,kz4q
+220,220A1HP1505,HP,Jancsár utca,1,kz4q
+220,220A1HP1535,HP,Jancsár utca,1,kz4q
+220,220A1HP1605,HP,Jancsár utca,1,kz4q
+220,220A1HP1635,HP,Jancsár utca,1,kz4q
+220,220A1HP1705,HP,Jancsár utca,1,kz4q
+220,220A1HP1735,HP,Jancsár utca,1,kz4q
+220,220A1HP1805,HP,Jancsár utca,1,kz4q
+220,220A1HP1835,HP,Jancsár utca,1,kz4q
+220,220A1HP1905,HP,Jancsár utca,1,kz4q
+220,220A1HP1935,HP,Jancsár utca,1,kz4q
+220,220A1HP2005,HP,Jancsár utca,1,kz4q
+220,220A1HP2035,HP,Jancsár utca,1,kz4q
+220,220A1HP2105,HP,Jancsár utca,1,kz4q
+220,220A1HP2250,HP,Jancsár utca,1,kz4q
+220,220A1SZ0600,SZ,Jancsár utca,1,kz4q
+220,220A1SZ0700,SZ,Jancsár utca,1,kz4q
+220,220A1SZ0805,SZ,Jancsár utca,1,kz4q
+220,220A1SZ0835,SZ,Jancsár utca,1,kz4q
+220,220A1SZ0905,SZ,Jancsár utca,1,kz4q
+220,220A1SZ0935,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1005,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1035,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1105,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1135,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1205,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1235,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1335,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1535,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1635,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1735,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1835,SZ,Jancsár utca,1,kz4q
+220,220A1SZ1935,SZ,Jancsár utca,1,kz4q
+220,220A1SZ2035,SZ,Jancsár utca,1,kz4q
+220,220A1SZ2250,SZ,Jancsár utca,1,kz4q
+220,220A1VV0835,VV,Jancsár utca,1,kz4q
+220,220A1VV0935,VV,Jancsár utca,1,kz4q
+220,220A1VV1035,VV,Jancsár utca,1,kz4q
+220,220A1VV1135,VV,Jancsár utca,1,kz4q
+220,220A1VV1235,VV,Jancsár utca,1,kz4q
+220,220A1VV1335,VV,Jancsár utca,1,kz4q
+220,220A1VV1535,VV,Jancsár utca,1,kz4q
+220,220A1VV1635,VV,Jancsár utca,1,kz4q
+220,220A1VV1735,VV,Jancsár utca,1,kz4q
+220,220A1VV1835,VV,Jancsár utca,1,kz4q
+220,220A1VV1935,VV,Jancsár utca,1,kz4q
+220,220A1VV2035,VV,Jancsár utca,1,kz4q
+220,220A1VV2250,VV,Jancsár utca,1,kz4q
+220,220B0HP0505,HP,Kisfalud,0,xd7g
+220,220B0HP1305,HP,Kisfalud,0,xd7g
+220,220B0HP2105,HP,Kisfalud,0,xd7g
+220,220B0HP2225,HP,Kisfalud,0,xd7g
+220,220B0SZ0445,SZ,Kisfalud,0,xd7g
+220,220B0SZ1305,SZ,Kisfalud,0,xd7g
+220,220B0SZ2100,SZ,Kisfalud,0,xd7g
+220,220B0SZ2225,SZ,Kisfalud,0,xd7g
+220,220B0VV0445,VV,Kisfalud,0,xd7g
+220,220B0VV1305,VV,Kisfalud,0,xd7g
+220,220B0VV2100,VV,Kisfalud,0,xd7g
+220,220B0VV2225,VV,Kisfalud,0,xd7g
+220,220B1HP0530,HP,Jancsár utca,1,b91l
+220,220B1HP0630,HP,Jancsár utca,1,b91l
+220,220B1HP1405,HP,Jancsár utca,1,b91l
+220,220B1HP2135,HP,Jancsár utca,1,b91l
+220,220B1IS0715,IS,Jancsár utca,1,b91l
+220,220B1SZ0505,SZ,Jancsár utca,1,b91l
+220,220B1SZ0635,SZ,Jancsár utca,1,b91l
+220,220B1SZ0730,SZ,Jancsár utca,1,b91l
+220,220B1SZ1435,SZ,Jancsár utca,1,b91l
+220,220B1SZ2125,SZ,Jancsár utca,1,b91l
+220,220B1VV0505,VV,Jancsár utca,1,b91l
+220,220B1VV0635,VV,Jancsár utca,1,b91l
+220,220B1VV0730,VV,Jancsár utca,1,b91l
+220,220B1VV1435,VV,Jancsár utca,1,b91l
+220,220B1VV2125,VV,Jancsár utca,1,b91l
+230,230A0HP0800,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP0900,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1000,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1100,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1200,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1500,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1600,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1700,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1800,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP1900,HP,Videoton Ipari Park,0,mw8r
+230,230A0HP2000,HP,Videoton Ipari Park,0,mw8r
+230,230A0SZ0800,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ0900,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1000,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1100,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1200,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1500,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1600,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1700,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1800,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ1900,SZ,Videoton Ipari Park,0,mw8r
+230,230A0SZ2000,SZ,Videoton Ipari Park,0,mw8r
+230,230A0VV0800,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV0900,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1000,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1100,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1200,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1500,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1600,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1700,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1800,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV1900,VV,Videoton Ipari Park,0,mw8r
+230,230A0VV2000,VV,Videoton Ipari Park,0,mw8r
+230,230A1HP0830,HP,Jancsár utca,1,x7g1
+230,230A1HP0930,HP,Jancsár utca,1,x7g1
+230,230A1HP1030,HP,Jancsár utca,1,x7g1
+230,230A1HP1130,HP,Jancsár utca,1,x7g1
+230,230A1HP1230,HP,Jancsár utca,1,x7g1
+230,230A1HP1530,HP,Jancsár utca,1,x7g1
+230,230A1HP1630,HP,Jancsár utca,1,x7g1
+230,230A1HP1730,HP,Jancsár utca,1,x7g1
+230,230A1HP1830,HP,Jancsár utca,1,x7g1
+230,230A1HP1930,HP,Jancsár utca,1,x7g1
+230,230A1HP2030,HP,Jancsár utca,1,x7g1
+230,230A1SZ0830,SZ,Jancsár utca,1,x7g1
+230,230A1SZ0930,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1030,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1130,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1230,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1530,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1630,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1730,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1830,SZ,Jancsár utca,1,x7g1
+230,230A1SZ1930,SZ,Jancsár utca,1,x7g1
+230,230A1SZ2030,SZ,Jancsár utca,1,x7g1
+230,230A1VV0830,VV,Jancsár utca,1,x7g1
+230,230A1VV0930,VV,Jancsár utca,1,x7g1
+230,230A1VV1030,VV,Jancsár utca,1,x7g1
+230,230A1VV1130,VV,Jancsár utca,1,x7g1
+230,230A1VV1230,VV,Jancsár utca,1,x7g1
+230,230A1VV1530,VV,Jancsár utca,1,x7g1
+230,230A1VV1630,VV,Jancsár utca,1,x7g1
+230,230A1VV1730,VV,Jancsár utca,1,x7g1
+230,230A1VV1830,VV,Jancsár utca,1,x7g1
+230,230A1VV1930,VV,Jancsár utca,1,x7g1
+230,230A1VV2030,VV,Jancsár utca,1,x7g1
+230,230B0HP0510,HP,Videoton Ipari Park,0,9rfc
+230,230B0HP1310,HP,Videoton Ipari Park,0,9rfc
+230,230B0HP2105,HP,Videoton Ipari Park,0,9rfc
+230,230B0SZ0510,SZ,Videoton Ipari Park,0,9rfc
+230,230B0SZ1310,SZ,Videoton Ipari Park,0,9rfc
+230,230B0SZ2105,SZ,Videoton Ipari Park,0,9rfc
+230,230B0VV0510,VV,Videoton Ipari Park,0,9rfc
+230,230B0VV1310,VV,Videoton Ipari Park,0,9rfc
+230,230B0VV2105,VV,Videoton Ipari Park,0,9rfc
+230,230B1HP0610,HP,Jancsár utca,1,12hm
+230,230B1HP1410,HP,Jancsár utca,1,12hm
+230,230B1HP2210,HP,Jancsár utca,1,12hm
+230,230B1SZ0610,SZ,Jancsár utca,1,12hm
+230,230B1SZ1410,SZ,Jancsár utca,1,12hm
+230,230B1SZ2210,SZ,Jancsár utca,1,12hm
+230,230B1VV0610,VV,Jancsár utca,1,12hm
+230,230B1VV1410,VV,Jancsár utca,1,12hm
+230,230B1VV2210,VV,Jancsár utca,1,12hm
+23E,23EA0HP0605,HP,Videoton,0,8vfo
+23E,23EA0HP0700,HP,Videoton,0,8vfo
+23E,23EA1HP0625,HP,Jancsár utca,1,d303
+23E,23EA1HP0725,HP,Jancsár utca,1,d303
+23E,23EA1HP1640,HP,Jancsár utca,1,d303
+240,240A0HP0435,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0445,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0520,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0545,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0605,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0620,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0645,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0705,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0745,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0810,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0850,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0910,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP0950,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1010,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1050,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1110,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1150,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1210,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1250,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1320,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1345,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1405,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1420,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1445,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1505,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1520,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1545,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1605,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1620,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1645,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1720,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1805,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1825,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP1905,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP2005,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP2210,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP2235,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP2256,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0HP2356,HP,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0550,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0610,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0650,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0710,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0750,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0810,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0850,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0910,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ0950,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1010,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1050,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1110,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1150,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1210,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1245,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1405,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1505,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1605,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1805,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ1905,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ2005,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ2210,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ2235,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ2256,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0SZ2356,SZ,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV0605,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV0705,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV0805,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV0905,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1005,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1105,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1205,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1405,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1505,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1605,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1805,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV1905,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV2005,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV2210,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV2235,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV2256,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A0VV2356,VV,Zsolnai út / Nagyszombati utca,0,f9ib
+240,240A1HP0455,HP,Jancsár utca,1,fdp0
+240,240A1HP0505,HP,Jancsár utca,1,fdp0
+240,240A1HP0530,HP,Jancsár utca,1,fdp0
+240,240A1HP0545,HP,Jancsár utca,1,fdp0
+240,240A1HP0635,HP,Jancsár utca,1,fdp0
+240,240A1HP0650,HP,Jancsár utca,1,fdp0
+240,240A1HP0710,HP,Jancsár utca,1,fdp0
+240,240A1HP0735,HP,Jancsár utca,1,fdp0
+240,240A1HP0750,HP,Jancsár utca,1,fdp0
+240,240A1HP0815,HP,Jancsár utca,1,fdp0
+240,240A1HP0840,HP,Jancsár utca,1,fdp0
+240,240A1HP0920,HP,Jancsár utca,1,fdp0
+240,240A1HP0940,HP,Jancsár utca,1,fdp0
+240,240A1HP1020,HP,Jancsár utca,1,fdp0
+240,240A1HP1040,HP,Jancsár utca,1,fdp0
+240,240A1HP1120,HP,Jancsár utca,1,fdp0
+240,240A1HP1140,HP,Jancsár utca,1,fdp0
+240,240A1HP1220,HP,Jancsár utca,1,fdp0
+240,240A1HP1235,HP,Jancsár utca,1,fdp0
+240,240A1HP1315,HP,Jancsár utca,1,fdp0
+240,240A1HP1330,HP,Jancsár utca,1,fdp0
+240,240A1HP1350,HP,Jancsár utca,1,fdp0
+240,240A1HP1415,HP,Jancsár utca,1,fdp0
+240,240A1HP1450,HP,Jancsár utca,1,fdp0
+240,240A1HP1515,HP,Jancsár utca,1,fdp0
+240,240A1HP1535,HP,Jancsár utca,1,fdp0
+240,240A1HP1550,HP,Jancsár utca,1,fdp0
+240,240A1HP1615,HP,Jancsár utca,1,fdp0
+240,240A1HP1650,HP,Jancsár utca,1,fdp0
+240,240A1HP1715,HP,Jancsár utca,1,fdp0
+240,240A1HP1735,HP,Jancsár utca,1,fdp0
+240,240A1HP1750,HP,Jancsár utca,1,fdp0
+240,240A1HP1850,HP,Jancsár utca,1,fdp0
+240,240A1HP1935,HP,Jancsár utca,1,fdp0
+240,240A1HP2030,HP,Jancsár utca,1,fdp0
+240,240A1HP2130,HP,Jancsár utca,1,fdp0
+240,240A1HP2320,HP,Jancsár utca,1,fdp0
+240,240A1IS0720,IS,Jancsár utca,1,fdp0
+240,240A1SZ0505,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0640,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0720,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0740,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0820,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0840,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0920,SZ,Jancsár utca,1,fdp0
+240,240A1SZ0940,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1020,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1040,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1120,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1140,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1220,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1235,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1310,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1330,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1535,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1635,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1735,SZ,Jancsár utca,1,fdp0
+240,240A1SZ1935,SZ,Jancsár utca,1,fdp0
+240,240A1SZ2030,SZ,Jancsár utca,1,fdp0
+240,240A1SZ2130,SZ,Jancsár utca,1,fdp0
+240,240A1SZ2320,SZ,Jancsár utca,1,fdp0
+240,240A1VV0505,VV,Jancsár utca,1,fdp0
+240,240A1VV0735,VV,Jancsár utca,1,fdp0
+240,240A1VV0835,VV,Jancsár utca,1,fdp0
+240,240A1VV0935,VV,Jancsár utca,1,fdp0
+240,240A1VV1035,VV,Jancsár utca,1,fdp0
+240,240A1VV1135,VV,Jancsár utca,1,fdp0
+240,240A1VV1235,VV,Jancsár utca,1,fdp0
+240,240A1VV1330,VV,Jancsár utca,1,fdp0
+240,240A1VV1535,VV,Jancsár utca,1,fdp0
+240,240A1VV1635,VV,Jancsár utca,1,fdp0
+240,240A1VV1735,VV,Jancsár utca,1,fdp0
+240,240A1VV1935,VV,Jancsár utca,1,fdp0
+240,240A1VV2030,VV,Jancsár utca,1,fdp0
+240,240A1VV2130,VV,Jancsár utca,1,fdp0
+240,240A1VV2320,VV,Jancsár utca,1,fdp0
+240,240C0HP0505,HP,Zsurló utca,0,ewin
+240,240C0HP0720,HP,Zsurló utca,0,ewin
+240,240C0HP1305,HP,Zsurló utca,0,ewin
+240,240C0HP1705,HP,Zsurló utca,0,ewin
+240,240C0HP2105,HP,Zsurló utca,0,ewin
+240,240C0SZ0505,SZ,Zsurló utca,0,ewin
+240,240C0SZ1305,SZ,Zsurló utca,0,ewin
+240,240C0SZ1705,SZ,Zsurló utca,0,ewin
+240,240C0SZ2105,SZ,Zsurló utca,0,ewin
+240,240C0VV0505,VV,Zsurló utca,0,ewin
+240,240C0VV1305,VV,Zsurló utca,0,ewin
+240,240C0VV1705,VV,Zsurló utca,0,ewin
+240,240C0VV2105,VV,Zsurló utca,0,ewin
+240,240C1HP0604,HP,Jancsár utca,1,xs6h
+240,240C1HP1424,HP,Jancsár utca,1,xs6h
+240,240C1HP1624,HP,Jancsár utca,1,xs6h
+240,240C1HP1824,HP,Jancsár utca,1,xs6h
+240,240C1HP2219,HP,Jancsár utca,1,xs6h
+240,240C1SZ0609,SZ,Jancsár utca,1,xs6h
+240,240C1SZ1424,SZ,Jancsár utca,1,xs6h
+240,240C1SZ1824,SZ,Jancsár utca,1,xs6h
+240,240C1SZ2219,SZ,Jancsár utca,1,xs6h
+240,240C1VV0609,VV,Jancsár utca,1,xs6h
+240,240C1VV1424,VV,Jancsár utca,1,xs6h
+240,240C1VV1824,VV,Jancsár utca,1,xs6h
+240,240C1VV2219,VV,Jancsár utca,1,xs6h
+250,250A0HP0440,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP0530,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP0630,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP0730,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP0830,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP0930,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1030,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1130,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1230,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1330,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1430,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1530,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1630,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1730,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1830,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP1930,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP2030,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0HP2130,HP,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0440,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0530,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0630,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0730,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0830,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ0930,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1030,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1130,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1230,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1330,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1430,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1530,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1630,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1730,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1830,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ1930,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ2030,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0SZ2130,SZ,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0440,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0530,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0630,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0730,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0830,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV0930,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1030,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1130,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1230,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1330,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1430,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1530,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1630,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1730,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1830,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV1930,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV2030,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A0VV2130,VV,Nyitrai utca / Zobori út,0,eph7
+250,250A1HP0500,HP,Jancsár utca,1,n87t
+250,250A1HP0600,HP,Jancsár utca,1,n87t
+250,250A1HP0700,HP,Jancsár utca,1,n87t
+250,250A1HP0800,HP,Jancsár utca,1,n87t
+250,250A1HP0900,HP,Jancsár utca,1,n87t
+250,250A1HP1000,HP,Jancsár utca,1,n87t
+250,250A1HP1100,HP,Jancsár utca,1,n87t
+250,250A1HP1200,HP,Jancsár utca,1,n87t
+250,250A1HP1300,HP,Jancsár utca,1,n87t
+250,250A1HP1400,HP,Jancsár utca,1,n87t
+250,250A1HP1500,HP,Jancsár utca,1,n87t
+250,250A1HP1600,HP,Jancsár utca,1,n87t
+250,250A1HP1700,HP,Jancsár utca,1,n87t
+250,250A1HP1800,HP,Jancsár utca,1,n87t
+250,250A1HP1900,HP,Jancsár utca,1,n87t
+250,250A1HP2000,HP,Jancsár utca,1,n87t
+250,250A1HP2100,HP,Jancsár utca,1,n87t
+250,250A1HP2205,HP,Jancsár utca,1,n87t
+250,250A1SZ0500,SZ,Jancsár utca,1,n87t
+250,250A1SZ0600,SZ,Jancsár utca,1,n87t
+250,250A1SZ0700,SZ,Jancsár utca,1,n87t
+250,250A1SZ0800,SZ,Jancsár utca,1,n87t
+250,250A1SZ0900,SZ,Jancsár utca,1,n87t
+250,250A1SZ1000,SZ,Jancsár utca,1,n87t
+250,250A1SZ1100,SZ,Jancsár utca,1,n87t
+250,250A1SZ1200,SZ,Jancsár utca,1,n87t
+250,250A1SZ1300,SZ,Jancsár utca,1,n87t
+250,250A1SZ1400,SZ,Jancsár utca,1,n87t
+250,250A1SZ1500,SZ,Jancsár utca,1,n87t
+250,250A1SZ1600,SZ,Jancsár utca,1,n87t
+250,250A1SZ1700,SZ,Jancsár utca,1,n87t
+250,250A1SZ1800,SZ,Jancsár utca,1,n87t
+250,250A1SZ1900,SZ,Jancsár utca,1,n87t
+250,250A1SZ2000,SZ,Jancsár utca,1,n87t
+250,250A1SZ2100,SZ,Jancsár utca,1,n87t
+250,250A1SZ2205,SZ,Jancsár utca,1,n87t
+250,250A1VV0500,VV,Jancsár utca,1,n87t
+250,250A1VV0600,VV,Jancsár utca,1,n87t
+250,250A1VV0700,VV,Jancsár utca,1,n87t
+250,250A1VV0800,VV,Jancsár utca,1,n87t
+250,250A1VV0900,VV,Jancsár utca,1,n87t
+250,250A1VV1000,VV,Jancsár utca,1,n87t
+250,250A1VV1100,VV,Jancsár utca,1,n87t
+250,250A1VV1200,VV,Jancsár utca,1,n87t
+250,250A1VV1300,VV,Jancsár utca,1,n87t
+250,250A1VV1400,VV,Jancsár utca,1,n87t
+250,250A1VV1500,VV,Jancsár utca,1,n87t
+250,250A1VV1600,VV,Jancsár utca,1,n87t
+250,250A1VV1700,VV,Jancsár utca,1,n87t
+250,250A1VV1800,VV,Jancsár utca,1,n87t
+250,250A1VV1900,VV,Jancsár utca,1,n87t
+250,250A1VV2000,VV,Jancsár utca,1,n87t
+250,250A1VV2100,VV,Jancsár utca,1,n87t
+250,250A1VV2205,VV,Jancsár utca,1,n87t
+260,260A0HP0450,HP,Béla utca,0,p0m9
+260,260A0HP0550,HP,Béla utca,0,p0m9
+260,260A0HP0650,HP,Béla utca,0,p0m9
+260,260A0HP0750,HP,Béla utca,0,p0m9
+260,260A0HP0850,HP,Béla utca,0,p0m9
+260,260A0HP0950,HP,Béla utca,0,p0m9
+260,260A0HP1050,HP,Béla utca,0,p0m9
+260,260A0HP1150,HP,Béla utca,0,p0m9
+260,260A0HP1250,HP,Béla utca,0,p0m9
+260,260A0HP1350,HP,Béla utca,0,p0m9
+260,260A0HP1450,HP,Béla utca,0,p0m9
+260,260A0HP1550,HP,Béla utca,0,p0m9
+260,260A0HP1650,HP,Béla utca,0,p0m9
+260,260A0HP1750,HP,Béla utca,0,p0m9
+260,260A0SZ0450,SZ,Béla utca,0,p0m9
+260,260A0SZ0550,SZ,Béla utca,0,p0m9
+260,260A0SZ0650,SZ,Béla utca,0,p0m9
+260,260A0SZ0750,SZ,Béla utca,0,p0m9
+260,260A0SZ0850,SZ,Béla utca,0,p0m9
+260,260A0SZ0950,SZ,Béla utca,0,p0m9
+260,260A0SZ1050,SZ,Béla utca,0,p0m9
+260,260A0SZ1150,SZ,Béla utca,0,p0m9
+260,260A0SZ1250,SZ,Béla utca,0,p0m9
+260,260A0SZ1350,SZ,Béla utca,0,p0m9
+260,260A0SZ1450,SZ,Béla utca,0,p0m9
+260,260A0SZ1550,SZ,Béla utca,0,p0m9
+260,260A0SZ1650,SZ,Béla utca,0,p0m9
+260,260A0SZ1750,SZ,Béla utca,0,p0m9
+260,260A0VV0450,VV,Béla utca,0,p0m9
+260,260A0VV0550,VV,Béla utca,0,p0m9
+260,260A0VV0650,VV,Béla utca,0,p0m9
+260,260A0VV0750,VV,Béla utca,0,p0m9
+260,260A0VV0850,VV,Béla utca,0,p0m9
+260,260A0VV0950,VV,Béla utca,0,p0m9
+260,260A0VV1050,VV,Béla utca,0,p0m9
+260,260A0VV1150,VV,Béla utca,0,p0m9
+260,260A0VV1250,VV,Béla utca,0,p0m9
+260,260A0VV1350,VV,Béla utca,0,p0m9
+260,260A0VV1450,VV,Béla utca,0,p0m9
+260,260A0VV1550,VV,Béla utca,0,p0m9
+260,260A0VV1650,VV,Béla utca,0,p0m9
+260,260A0VV1750,VV,Béla utca,0,p0m9
+260,260A1HP0510,HP,Jancsár utca,1,o53m
+260,260A1HP0620,HP,Jancsár utca,1,o53m
+260,260A1HP0720,HP,Jancsár utca,1,o53m
+260,260A1HP0820,HP,Jancsár utca,1,o53m
+260,260A1HP0920,HP,Jancsár utca,1,o53m
+260,260A1HP1020,HP,Jancsár utca,1,o53m
+260,260A1HP1120,HP,Jancsár utca,1,o53m
+260,260A1HP1220,HP,Jancsár utca,1,o53m
+260,260A1HP1320,HP,Jancsár utca,1,o53m
+260,260A1HP1420,HP,Jancsár utca,1,o53m
+260,260A1HP1520,HP,Jancsár utca,1,o53m
+260,260A1HP1620,HP,Jancsár utca,1,o53m
+260,260A1HP1720,HP,Jancsár utca,1,o53m
+260,260A1HP1820,HP,Jancsár utca,1,o53m
+260,260A1SZ0510,SZ,Jancsár utca,1,o53m
+260,260A1SZ0620,SZ,Jancsár utca,1,o53m
+260,260A1SZ0720,SZ,Jancsár utca,1,o53m
+260,260A1SZ0820,SZ,Jancsár utca,1,o53m
+260,260A1SZ0920,SZ,Jancsár utca,1,o53m
+260,260A1SZ1020,SZ,Jancsár utca,1,o53m
+260,260A1SZ1120,SZ,Jancsár utca,1,o53m
+260,260A1SZ1220,SZ,Jancsár utca,1,o53m
+260,260A1SZ1320,SZ,Jancsár utca,1,o53m
+260,260A1SZ1420,SZ,Jancsár utca,1,o53m
+260,260A1SZ1520,SZ,Jancsár utca,1,o53m
+260,260A1SZ1620,SZ,Jancsár utca,1,o53m
+260,260A1SZ1720,SZ,Jancsár utca,1,o53m
+260,260A1SZ1820,SZ,Jancsár utca,1,o53m
+260,260A1VV0510,VV,Jancsár utca,1,o53m
+260,260A1VV0620,VV,Jancsár utca,1,o53m
+260,260A1VV0720,VV,Jancsár utca,1,o53m
+260,260A1VV0820,VV,Jancsár utca,1,o53m
+260,260A1VV0920,VV,Jancsár utca,1,o53m
+260,260A1VV1020,VV,Jancsár utca,1,o53m
+260,260A1VV1120,VV,Jancsár utca,1,o53m
+260,260A1VV1220,VV,Jancsár utca,1,o53m
+260,260A1VV1320,VV,Jancsár utca,1,o53m
+260,260A1VV1420,VV,Jancsár utca,1,o53m
+260,260A1VV1520,VV,Jancsár utca,1,o53m
+260,260A1VV1620,VV,Jancsár utca,1,o53m
+260,260A1VV1720,VV,Jancsár utca,1,o53m
+260,260A1VV1820,VV,Jancsár utca,1,o53m
+26A,26AA0HP0435,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0510,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0530,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0610,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0630,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0710,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0730,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0810,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0830,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP0920,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1020,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1120,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1220,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1310,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1330,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1410,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1430,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1510,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1530,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1610,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1630,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1710,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1730,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1825,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP1925,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP2025,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP2125,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0HP2235,HP,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0440,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0525,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0625,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0720,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0820,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ0920,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1020,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1120,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1220,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1325,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1425,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1520,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1620,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1720,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1825,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ1925,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ2025,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ2125,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0SZ2235,SZ,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0440,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0525,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0625,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0720,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0820,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV0920,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1020,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1120,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1220,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1325,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1425,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1520,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1620,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1720,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1825,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV1925,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV2025,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV2125,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA0VV2235,VV,Kassai utca / Nagyszombati utca,0,y6yy
+26A,26AA1HP0455,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0540,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0605,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0640,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0700,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0740,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0800,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0840,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0900,HP,Jancsár utca,1,rzxf
+26A,26AA1HP0950,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1050,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1150,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1250,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1340,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1400,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1440,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1500,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1540,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1600,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1640,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1700,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1740,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1800,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1850,HP,Jancsár utca,1,rzxf
+26A,26AA1HP1950,HP,Jancsár utca,1,rzxf
+26A,26AA1HP2050,HP,Jancsár utca,1,rzxf
+26A,26AA1HP2210,HP,Jancsár utca,1,rzxf
+26A,26AA1HP2230,HP,Jancsár utca,1,rzxf
+26A,26AA1HP2255,HP,Jancsár utca,1,rzxf
+26A,26AA1SZ0500,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ0600,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ0650,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ0750,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ0850,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ0950,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1050,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1150,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1250,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1400,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1450,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1550,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1650,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1800,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1850,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ1950,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ2050,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ2210,SZ,Jancsár utca,1,rzxf
+26A,26AA1SZ2255,SZ,Jancsár utca,1,rzxf
+26A,26AA1VV0500,VV,Jancsár utca,1,rzxf
+26A,26AA1VV0600,VV,Jancsár utca,1,rzxf
+26A,26AA1VV0650,VV,Jancsár utca,1,rzxf
+26A,26AA1VV0750,VV,Jancsár utca,1,rzxf
+26A,26AA1VV0850,VV,Jancsár utca,1,rzxf
+26A,26AA1VV0950,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1050,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1150,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1250,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1400,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1450,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1550,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1650,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1800,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1850,VV,Jancsár utca,1,rzxf
+26A,26AA1VV1950,VV,Jancsár utca,1,rzxf
+26A,26AA1VV2050,VV,Jancsár utca,1,rzxf
+26A,26AA1VV2210,VV,Jancsár utca,1,rzxf
+26A,26AA1VV2255,VV,Jancsár utca,1,rzxf
+26A,26AB0HP2220,HP,Kassai utca / Nagyszombati utca,0,graw
+26C,26CA0HP0630,HP,Depónia - válogató,0,v2ky
+26C,26CA0HP1300,HP,Depónia - válogató,0,v2ky
+26C,26CA0HS0530,HS,Depónia - válogató,0,v2ky
+26C,26CA1HP0708,HP,Autóbusz-állomás,1,bm2n
+26C,26CA1HP1405,HP,Autóbusz-állomás,1,bm2n
+26C,26CA1HP1605,HP,Autóbusz-állomás,1,bm2n
+26C,26CA1HP2208,HP,Autóbusz-állomás,1,bm2n
+26C,26CA1HS1450,HS,Autóbusz-állomás,1,bm2n
+26C,26CB0HP0715,HP,Depónia - irodaház,0,fed2
+26C,26CB0HP0900,HP,Depónia - irodaház,0,fed2
+26C,26CB1DP1305,DP,Autóbusz-állomás,1,f3ik
+26C,26CB1HP1205,HP,Autóbusz-állomás,1,f3ik
+26C,26CB1HP1705,HP,Autóbusz-állomás,1,f3ik
+26C,26CB1HP1805,HP,Autóbusz-állomás,1,f3ik
+26G,26GA0HP0510,HP,Videoton,0,w8um
+26G,26GA0HP0515,HP,Videoton,0,w8um
+26G,26GA0HP0525,HP,Videoton,0,w8um
+26G,26GA0HP1315,HP,Videoton,0,w8um
+26G,26GA0HP1325,HP,Videoton,0,w8um
+26G,26GA0HP2125,HP,Videoton,0,w8um
+26G,26GA0IS0735,IS,Videoton,0,w8um
+26G,26GA1HP1405,HP,Autóbusz-állomás,1,qtdm
+26G,26GA1HP1410,HP,Autóbusz-állomás,1,qtdm
+310,310A0HP0635,HP,Béla utca,0,powx
+310,310A0HP0725,HP,Béla utca,0,powx
+310,310A0HP0820,HP,Béla utca,0,powx
+310,310A0HP0920,HP,Béla utca,0,powx
+310,310A0HP1020,HP,Béla utca,0,powx
+310,310A0HP1120,HP,Béla utca,0,powx
+310,310A0HP1220,HP,Béla utca,0,powx
+310,310A0HP1330,HP,Béla utca,0,powx
+310,310A0HP1435,HP,Béla utca,0,powx
+310,310A0HP1525,HP,Béla utca,0,powx
+310,310A0HP1620,HP,Béla utca,0,powx
+310,310A0HP1720,HP,Béla utca,0,powx
+310,310A0HP1820,HP,Béla utca,0,powx
+310,310A0HP1920,HP,Béla utca,0,powx
+310,310A0HP2025,HP,Béla utca,0,powx
+310,310A0SZ0635,SZ,Béla utca,0,powx
+310,310A0SZ0725,SZ,Béla utca,0,powx
+310,310A0SZ0820,SZ,Béla utca,0,powx
+310,310A0SZ0920,SZ,Béla utca,0,powx
+310,310A0SZ1020,SZ,Béla utca,0,powx
+310,310A0SZ1120,SZ,Béla utca,0,powx
+310,310A0SZ1220,SZ,Béla utca,0,powx
+310,310A0SZ1320,SZ,Béla utca,0,powx
+310,310A0SZ1420,SZ,Béla utca,0,powx
+310,310A0SZ1520,SZ,Béla utca,0,powx
+310,310A0SZ1620,SZ,Béla utca,0,powx
+310,310A0SZ1720,SZ,Béla utca,0,powx
+310,310A0SZ1820,SZ,Béla utca,0,powx
+310,310A0SZ1920,SZ,Béla utca,0,powx
+310,310A0SZ2025,SZ,Béla utca,0,powx
+310,310A0VV0635,VV,Béla utca,0,powx
+310,310A0VV0725,VV,Béla utca,0,powx
+310,310A0VV0820,VV,Béla utca,0,powx
+310,310A0VV0920,VV,Béla utca,0,powx
+310,310A0VV1020,VV,Béla utca,0,powx
+310,310A0VV1120,VV,Béla utca,0,powx
+310,310A0VV1220,VV,Béla utca,0,powx
+310,310A0VV1320,VV,Béla utca,0,powx
+310,310A0VV1420,VV,Béla utca,0,powx
+310,310A0VV1520,VV,Béla utca,0,powx
+310,310A0VV1620,VV,Béla utca,0,powx
+310,310A0VV1720,VV,Béla utca,0,powx
+310,310A0VV1820,VV,Béla utca,0,powx
+310,310A0VV1920,VV,Béla utca,0,powx
+310,310A0VV2025,VV,Béla utca,0,powx
+310,310A1HP0750,HP,Vasútállomás,1,05u7
+310,310A1HP0850,HP,Vasútállomás,1,05u7
+310,310A1HP0950,HP,Vasútállomás,1,05u7
+310,310A1HP1050,HP,Vasútállomás,1,05u7
+310,310A1HP1150,HP,Vasútállomás,1,05u7
+310,310A1HP1250,HP,Vasútállomás,1,05u7
+310,310A1HP1500,HP,Vasútállomás,1,05u7
+310,310A1HP1550,HP,Vasútállomás,1,05u7
+310,310A1HP1650,HP,Vasútállomás,1,05u7
+310,310A1HP1750,HP,Vasútállomás,1,05u7
+310,310A1HP1850,HP,Vasútállomás,1,05u7
+310,310A1HP1950,HP,Vasútállomás,1,05u7
+310,310A1HP2055,HP,Vasútállomás,1,05u7
+310,310A1SZ0700,SZ,Vasútállomás,1,05u7
+310,310A1SZ0750,SZ,Vasútállomás,1,05u7
+310,310A1SZ0850,SZ,Vasútállomás,1,05u7
+310,310A1SZ0950,SZ,Vasútállomás,1,05u7
+310,310A1SZ1050,SZ,Vasútállomás,1,05u7
+310,310A1SZ1150,SZ,Vasútállomás,1,05u7
+310,310A1SZ1250,SZ,Vasútállomás,1,05u7
+310,310A1SZ1350,SZ,Vasútállomás,1,05u7
+310,310A1SZ1450,SZ,Vasútállomás,1,05u7
+310,310A1SZ1550,SZ,Vasútállomás,1,05u7
+310,310A1SZ1650,SZ,Vasútállomás,1,05u7
+310,310A1SZ1750,SZ,Vasútállomás,1,05u7
+310,310A1SZ1850,SZ,Vasútállomás,1,05u7
+310,310A1SZ1950,SZ,Vasútállomás,1,05u7
+310,310A1SZ2055,SZ,Vasútállomás,1,05u7
+310,310A1TS0700,TS,Vasútállomás,1,05u7
+310,310A1VV0700,VV,Vasútállomás,1,05u7
+310,310A1VV0750,VV,Vasútállomás,1,05u7
+310,310A1VV0850,VV,Vasútállomás,1,05u7
+310,310A1VV0950,VV,Vasútállomás,1,05u7
+310,310A1VV1050,VV,Vasútállomás,1,05u7
+310,310A1VV1150,VV,Vasútállomás,1,05u7
+310,310A1VV1250,VV,Vasútállomás,1,05u7
+310,310A1VV1350,VV,Vasútállomás,1,05u7
+310,310A1VV1450,VV,Vasútállomás,1,05u7
+310,310A1VV1550,VV,Vasútállomás,1,05u7
+310,310A1VV1650,VV,Vasútállomás,1,05u7
+310,310A1VV1750,VV,Vasútállomás,1,05u7
+310,310A1VV1850,VV,Vasútállomás,1,05u7
+310,310A1VV1950,VV,Vasútállomás,1,05u7
+310,310A1VV2055,VV,Vasútállomás,1,05u7
+310,310B0HP0536,HP,Béla utca,0,hu3f
+310,310B0HP2150,HP,Béla utca,0,hu3f
+310,310B0SZ0515,SZ,Béla utca,0,hu3f
+310,310B0VV0515,VV,Béla utca,0,hu3f
+310,310B1HP0605,HP,Vasútállomás,1,67vl
+310,310B1HP1405,HP,Vasútállomás,1,67vl
+310,310B1IS0700,IS,Vasútállomás,1,67vl
+310,310B1SZ0605,SZ,Vasútállomás,1,67vl
+310,310B1VV0605,VV,Vasútállomás,1,67vl
+31E,31EA0HP0505,HP,Videoton,0,rjl4
+31E,31EA1HP0520,HP,Vasútállomás,1,avcv
+320,320A0HP0510,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP0600,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP0700,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP0725,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP0800,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP0900,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1000,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1100,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1200,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1300,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1400,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1500,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1600,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1700,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1800,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP1900,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP2000,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP2125,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP2255,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0HP2355,HP,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ0510,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ0600,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ0700,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ0800,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ0900,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1000,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1100,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1200,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1300,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1400,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1500,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1600,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1700,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1800,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ1900,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ2000,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ2125,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ2255,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0SZ2355,SZ,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV0510,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV0600,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV0700,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV0800,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV0900,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1000,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1100,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1200,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1300,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1400,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1500,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1600,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1700,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1800,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV1900,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV2000,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV2125,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV2255,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A0VV2355,VV,Kassai utca / Nagyszombati utca,0,33pv
+320,320A1HP0530,HP,Vasútállomás,1,gr2w
+320,320A1HP0625,HP,Vasútállomás,1,gr2w
+320,320A1HP0725,HP,Vasútállomás,1,gr2w
+320,320A1HP0825,HP,Vasútállomás,1,gr2w
+320,320A1HP0925,HP,Vasútállomás,1,gr2w
+320,320A1HP1025,HP,Vasútállomás,1,gr2w
+320,320A1HP1125,HP,Vasútállomás,1,gr2w
+320,320A1HP1325,HP,Vasútállomás,1,gr2w
+320,320A1HP1425,HP,Vasútállomás,1,gr2w
+320,320A1HP1525,HP,Vasútállomás,1,gr2w
+320,320A1HP1625,HP,Vasútállomás,1,gr2w
+320,320A1HP1725,HP,Vasútállomás,1,gr2w
+320,320A1HP1825,HP,Vasútállomás,1,gr2w
+320,320A1HP1925,HP,Vasútállomás,1,gr2w
+320,320A1HP2210,HP,Vasútállomás,1,gr2w
+320,320A1IS0655,IS,Vasútállomás,1,gr2w
+320,320A1SZ0530,SZ,Vasútállomás,1,gr2w
+320,320A1SZ0625,SZ,Vasútállomás,1,gr2w
+320,320A1SZ0725,SZ,Vasútállomás,1,gr2w
+320,320A1SZ0825,SZ,Vasútállomás,1,gr2w
+320,320A1SZ0925,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1025,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1125,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1325,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1425,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1525,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1625,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1725,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1825,SZ,Vasútállomás,1,gr2w
+320,320A1SZ1925,SZ,Vasútállomás,1,gr2w
+320,320A1SZ2210,SZ,Vasútállomás,1,gr2w
+320,320A1VV0530,VV,Vasútállomás,1,gr2w
+320,320A1VV0625,VV,Vasútállomás,1,gr2w
+320,320A1VV0725,VV,Vasútállomás,1,gr2w
+320,320A1VV0825,VV,Vasútállomás,1,gr2w
+320,320A1VV0925,VV,Vasútállomás,1,gr2w
+320,320A1VV1025,VV,Vasútállomás,1,gr2w
+320,320A1VV1125,VV,Vasútállomás,1,gr2w
+320,320A1VV1325,VV,Vasútállomás,1,gr2w
+320,320A1VV1425,VV,Vasútállomás,1,gr2w
+320,320A1VV1525,VV,Vasútállomás,1,gr2w
+320,320A1VV1625,VV,Vasútállomás,1,gr2w
+320,320A1VV1725,VV,Vasútállomás,1,gr2w
+320,320A1VV1825,VV,Vasútállomás,1,gr2w
+320,320A1VV1925,VV,Vasútállomás,1,gr2w
+320,320A1VV2210,VV,Vasútállomás,1,gr2w
+320,320B0HP0625,HP,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0HP1425,HP,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0HP2225,HP,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0SZ0625,SZ,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0SZ1425,SZ,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0SZ2225,SZ,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0VV0625,VV,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0VV1425,VV,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B0VV2225,VV,Kassai utca / Nagyszombati utca,0,9wgh
+320,320B1HP0445,HP,Angol utca,1,0xkx
+320,320B1HP04451,HP,Angol utca,1,0xkx
+320,320B1HP1225,HP,Angol utca,1,0xkx
+320,320B1HP1235,HP,Angol utca,1,0xkx
+320,320B1HP2025,HP,Angol utca,1,0xkx
+320,320B1HP2045,HP,Angol utca,1,0xkx
+320,320B1SZ0445,SZ,Angol utca,1,0xkx
+320,320B1SZ04451,SZ,Angol utca,1,0xkx
+320,320B1SZ1225,SZ,Angol utca,1,0xkx
+320,320B1SZ1235,SZ,Angol utca,1,0xkx
+320,320B1SZ2025,SZ,Angol utca,1,0xkx
+320,320B1SZ2045,SZ,Angol utca,1,0xkx
+320,320B1VV0445,VV,Angol utca,1,0xkx
+320,320B1VV04451,VV,Angol utca,1,0xkx
+320,320B1VV1225,VV,Angol utca,1,0xkx
+320,320B1VV1235,VV,Angol utca,1,0xkx
+320,320B1VV2025,VV,Angol utca,1,0xkx
+320,320B1VV2045,VV,Angol utca,1,0xkx
+320,320C1HP1410,HP,Vasútállomás,1,oboj
+330,330A0HP0450,HP,Vasútállomás,0,jsgq
+330,330A0HP0535,HP,Vasútállomás,0,jsgq
+330,330A0HP0605,HP,Vasútállomás,0,jsgq
+330,330A0HP0635,HP,Vasútállomás,0,jsgq
+330,330A0HP0700,HP,Vasútállomás,0,jsgq
+330,330A0HP0735,HP,Vasútállomás,0,jsgq
+330,330A0HP0805,HP,Vasútállomás,0,jsgq
+330,330A0HP0835,HP,Vasútállomás,0,jsgq
+330,330A0HP0935,HP,Vasútállomás,0,jsgq
+330,330A0HP1035,HP,Vasútállomás,0,jsgq
+330,330A0HP1135,HP,Vasútállomás,0,jsgq
+330,330A0HP1235,HP,Vasútállomás,0,jsgq
+330,330A0HP1305,HP,Vasútállomás,0,jsgq
+330,330A0HP1335,HP,Vasútállomás,0,jsgq
+330,330A0HP1405,HP,Vasútállomás,0,jsgq
+330,330A0HP1435,HP,Vasútállomás,0,jsgq
+330,330A0HP1505,HP,Vasútállomás,0,jsgq
+330,330A0HP1535,HP,Vasútállomás,0,jsgq
+330,330A0HP1605,HP,Vasútállomás,0,jsgq
+330,330A0HP1635,HP,Vasútállomás,0,jsgq
+330,330A0HP1705,HP,Vasútállomás,0,jsgq
+330,330A0HP1735,HP,Vasútállomás,0,jsgq
+330,330A0HP1835,HP,Vasútállomás,0,jsgq
+330,330A0HP1935,HP,Vasútállomás,0,jsgq
+330,330A0HP2050,HP,Vasútállomás,0,jsgq
+330,330A0HP2205,HP,Vasútállomás,0,jsgq
+330,330A0SZ0450,SZ,Vasútállomás,0,jsgq
+330,330A0SZ0535,SZ,Vasútállomás,0,jsgq
+330,330A0SZ0635,SZ,Vasútállomás,0,jsgq
+330,330A0SZ0735,SZ,Vasútállomás,0,jsgq
+330,330A0SZ0835,SZ,Vasútállomás,0,jsgq
+330,330A0SZ0935,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1035,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1135,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1235,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1335,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1435,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1535,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1635,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1735,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1835,SZ,Vasútállomás,0,jsgq
+330,330A0SZ1935,SZ,Vasútállomás,0,jsgq
+330,330A0SZ2050,SZ,Vasútállomás,0,jsgq
+330,330A0SZ2205,SZ,Vasútállomás,0,jsgq
+330,330A0VV0450,VV,Vasútállomás,0,jsgq
+330,330A0VV0535,VV,Vasútállomás,0,jsgq
+330,330A0VV0635,VV,Vasútállomás,0,jsgq
+330,330A0VV0735,VV,Vasútállomás,0,jsgq
+330,330A0VV0835,VV,Vasútállomás,0,jsgq
+330,330A0VV0935,VV,Vasútállomás,0,jsgq
+330,330A0VV1035,VV,Vasútállomás,0,jsgq
+330,330A0VV1135,VV,Vasútállomás,0,jsgq
+330,330A0VV1235,VV,Vasútállomás,0,jsgq
+330,330A0VV1335,VV,Vasútállomás,0,jsgq
+330,330A0VV1435,VV,Vasútállomás,0,jsgq
+330,330A0VV1535,VV,Vasútállomás,0,jsgq
+330,330A0VV1635,VV,Vasútállomás,0,jsgq
+330,330A0VV1735,VV,Vasútállomás,0,jsgq
+330,330A0VV1835,VV,Vasútállomás,0,jsgq
+330,330A0VV1935,VV,Vasútállomás,0,jsgq
+330,330A0VV2050,VV,Vasútállomás,0,jsgq
+330,330A0VV2205,VV,Vasútállomás,0,jsgq
+340,340A0HP0505,HP,Vasútállomás,0,cr0n
+340,340A0HP0520,HP,Vasútállomás,0,cr0n
+340,340A0HP0550,HP,Vasútállomás,0,cr0n
+340,340A0HP0620,HP,Vasútállomás,0,cr0n
+340,340A0HP0650,HP,Vasútállomás,0,cr0n
+340,340A0HP0720,HP,Vasútállomás,0,cr0n
+340,340A0HP0750,HP,Vasútállomás,0,cr0n
+340,340A0HP0820,HP,Vasútállomás,0,cr0n
+340,340A0HP0905,HP,Vasútállomás,0,cr0n
+340,340A0HP1005,HP,Vasútállomás,0,cr0n
+340,340A0HP1105,HP,Vasútállomás,0,cr0n
+340,340A0HP1205,HP,Vasútállomás,0,cr0n
+340,340A0HP1250,HP,Vasútállomás,0,cr0n
+340,340A0HP1320,HP,Vasútállomás,0,cr0n
+340,340A0HP1350,HP,Vasútállomás,0,cr0n
+340,340A0HP1420,HP,Vasútállomás,0,cr0n
+340,340A0HP1450,HP,Vasútállomás,0,cr0n
+340,340A0HP1520,HP,Vasútállomás,0,cr0n
+340,340A0HP1550,HP,Vasútállomás,0,cr0n
+340,340A0HP1620,HP,Vasútállomás,0,cr0n
+340,340A0HP1650,HP,Vasútállomás,0,cr0n
+340,340A0HP1720,HP,Vasútállomás,0,cr0n
+340,340A0HP1805,HP,Vasútállomás,0,cr0n
+340,340A0HP1905,HP,Vasútállomás,0,cr0n
+340,340A0HP2005,HP,Vasútállomás,0,cr0n
+340,340A0HP2120,HP,Vasútállomás,0,cr0n
+340,340A0SZ0605,SZ,Vasútállomás,0,cr0n
+340,340A0SZ0705,SZ,Vasútállomás,0,cr0n
+340,340A0SZ0805,SZ,Vasútállomás,0,cr0n
+340,340A0SZ0905,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1005,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1105,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1205,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1305,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1405,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1505,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1605,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1705,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1805,SZ,Vasútállomás,0,cr0n
+340,340A0SZ1905,SZ,Vasútállomás,0,cr0n
+340,340A0SZ2005,SZ,Vasútállomás,0,cr0n
+340,340A0SZ2120,SZ,Vasútállomás,0,cr0n
+340,340A0VV0605,VV,Vasútállomás,0,cr0n
+340,340A0VV0705,VV,Vasútállomás,0,cr0n
+340,340A0VV0805,VV,Vasútállomás,0,cr0n
+340,340A0VV0905,VV,Vasútállomás,0,cr0n
+340,340A0VV1005,VV,Vasútállomás,0,cr0n
+340,340A0VV1105,VV,Vasútállomás,0,cr0n
+340,340A0VV1205,VV,Vasútállomás,0,cr0n
+340,340A0VV1305,VV,Vasútállomás,0,cr0n
+340,340A0VV1405,VV,Vasútállomás,0,cr0n
+340,340A0VV1505,VV,Vasútállomás,0,cr0n
+340,340A0VV1605,VV,Vasútállomás,0,cr0n
+340,340A0VV1705,VV,Vasútállomás,0,cr0n
+340,340A0VV1805,VV,Vasútállomás,0,cr0n
+340,340A0VV1905,VV,Vasútállomás,0,cr0n
+340,340A0VV2005,VV,Vasútállomás,0,cr0n
+340,340A0VV2120,VV,Vasútállomás,0,cr0n
+340,340B0HP2235,HP,Fecskeparti lakótelep,0,y4f9
+340,340B0HP2255,HP,Fecskeparti lakótelep,0,y4f9
+340,340B0HP2355,HP,Fecskeparti lakótelep,0,y4f9
+340,340B0SZ2235,SZ,Fecskeparti lakótelep,0,y4f9
+340,340B0SZ2255,SZ,Fecskeparti lakótelep,0,y4f9
+340,340B0SZ2355,SZ,Fecskeparti lakótelep,0,y4f9
+340,340B0VV2235,VV,Fecskeparti lakótelep,0,y4f9
+340,340B0VV2255,VV,Fecskeparti lakótelep,0,y4f9
+340,340B0VV2355,VV,Fecskeparti lakótelep,0,y4f9
+350,350A0HP0440,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP0525,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP0625,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP0715,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP0815,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP0925,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1025,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1125,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1225,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1315,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1410,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1510,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1610,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1725,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1825,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP1925,HP,Zone Bevásárlópark,0,37t9
+350,350A0HP2030,HP,Zone Bevásárlópark,0,37t9
+350,350A0SZ0525,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ0625,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ0725,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ0815,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ0925,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1025,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1125,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1225,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1325,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1425,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1525,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1625,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1725,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1830,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ1930,SZ,Zone Bevásárlópark,0,37t9
+350,350A0SZ2030,SZ,Zone Bevásárlópark,0,37t9
+350,350A0VV0525,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV0625,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV0725,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV0815,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV0925,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1025,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1125,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1225,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1325,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1425,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1525,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1625,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1725,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1830,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV1930,VV,Zone Bevásárlópark,0,37t9
+350,350A0VV2030,VV,Zone Bevásárlópark,0,37t9
+350,350A1HP0500,HP,Vasútállomás,1,y7wq
+350,350A1HP0550,HP,Vasútállomás,1,y7wq
+350,350A1HP0650,HP,Vasútállomás,1,y7wq
+350,350A1HP0715,HP,Vasútállomás,1,y7wq
+350,350A1HP0740,HP,Vasútállomás,1,y7wq
+350,350A1HP0850,HP,Vasútállomás,1,y7wq
+350,350A1HP0950,HP,Vasútállomás,1,y7wq
+350,350A1HP1050,HP,Vasútállomás,1,y7wq
+350,350A1HP1150,HP,Vasútállomás,1,y7wq
+350,350A1HP1250,HP,Vasútállomás,1,y7wq
+350,350A1HP1340,HP,Vasútállomás,1,y7wq
+350,350A1HP1435,HP,Vasútállomás,1,y7wq
+350,350A1HP1535,HP,Vasútállomás,1,y7wq
+350,350A1HP1635,HP,Vasútállomás,1,y7wq
+350,350A1HP1750,HP,Vasútállomás,1,y7wq
+350,350A1HP1850,HP,Vasútállomás,1,y7wq
+350,350A1HP2010,HP,Vasútállomás,1,y7wq
+350,350A1HP2110,HP,Vasútállomás,1,y7wq
+350,350A1HP2210,HP,Vasútállomás,1,y7wq
+350,350A1SZ0550,SZ,Vasútállomás,1,y7wq
+350,350A1SZ0650,SZ,Vasútállomás,1,y7wq
+350,350A1SZ0750,SZ,Vasútállomás,1,y7wq
+350,350A1SZ0850,SZ,Vasútállomás,1,y7wq
+350,350A1SZ0950,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1050,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1150,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1250,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1350,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1450,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1550,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1650,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1810,SZ,Vasútállomás,1,y7wq
+350,350A1SZ1910,SZ,Vasútállomás,1,y7wq
+350,350A1SZ2010,SZ,Vasútállomás,1,y7wq
+350,350A1SZ2110,SZ,Vasútállomás,1,y7wq
+350,350A1SZ2210,SZ,Vasútállomás,1,y7wq
+350,350A1VV0550,VV,Vasútállomás,1,y7wq
+350,350A1VV0650,VV,Vasútállomás,1,y7wq
+350,350A1VV0750,VV,Vasútállomás,1,y7wq
+350,350A1VV0850,VV,Vasútállomás,1,y7wq
+350,350A1VV0950,VV,Vasútállomás,1,y7wq
+350,350A1VV1050,VV,Vasútállomás,1,y7wq
+350,350A1VV1150,VV,Vasútállomás,1,y7wq
+350,350A1VV1250,VV,Vasútállomás,1,y7wq
+350,350A1VV1350,VV,Vasútállomás,1,y7wq
+350,350A1VV1450,VV,Vasútállomás,1,y7wq
+350,350A1VV1550,VV,Vasútállomás,1,y7wq
+350,350A1VV1650,VV,Vasútállomás,1,y7wq
+350,350A1VV1810,VV,Vasútállomás,1,y7wq
+350,350A1VV1910,VV,Vasútállomás,1,y7wq
+350,350A1VV2010,VV,Vasútállomás,1,y7wq
+350,350A1VV2110,VV,Vasútállomás,1,y7wq
+350,350A1VV2210,VV,Vasútállomás,1,y7wq
+360,360A0HP0425,HP,Hernád utca,0,wkwt
+360,360A0HP0525,HP,Hernád utca,0,wkwt
+360,360A0HP0540,HP,Hernád utca,0,wkwt
+360,360A0HP0615,HP,Hernád utca,0,wkwt
+360,360A0HP0630,HP,Hernád utca,0,wkwt
+360,360A0HP0705,HP,Hernád utca,0,wkwt
+360,360A0HP0745,HP,Hernád utca,0,wkwt
+360,360A0HP0815,HP,Hernád utca,0,wkwt
+360,360A0HP0845,HP,Hernád utca,0,wkwt
+360,360A0HP0915,HP,Hernád utca,0,wkwt
+360,360A0HP0945,HP,Hernád utca,0,wkwt
+360,360A0HP1015,HP,Hernád utca,0,wkwt
+360,360A0HP1045,HP,Hernád utca,0,wkwt
+360,360A0HP1115,HP,Hernád utca,0,wkwt
+360,360A0HP1145,HP,Hernád utca,0,wkwt
+360,360A0HP1215,HP,Hernád utca,0,wkwt
+360,360A0HP1245,HP,Hernád utca,0,wkwt
+360,360A0HP1315,HP,Hernád utca,0,wkwt
+360,360A0HP1345,HP,Hernád utca,0,wkwt
+360,360A0HP1420,HP,Hernád utca,0,wkwt
+360,360A0HP1445,HP,Hernád utca,0,wkwt
+360,360A0HP1515,HP,Hernád utca,0,wkwt
+360,360A0HP1545,HP,Hernád utca,0,wkwt
+360,360A0HP1615,HP,Hernád utca,0,wkwt
+360,360A0HP1645,HP,Hernád utca,0,wkwt
+360,360A0HP1715,HP,Hernád utca,0,wkwt
+360,360A0HP1745,HP,Hernád utca,0,wkwt
+360,360A0HP1815,HP,Hernád utca,0,wkwt
+360,360A0HP1845,HP,Hernád utca,0,wkwt
+360,360A0HP1915,HP,Hernád utca,0,wkwt
+360,360A0HP1945,HP,Hernád utca,0,wkwt
+360,360A0HP2015,HP,Hernád utca,0,wkwt
+360,360A0HP2045,HP,Hernád utca,0,wkwt
+360,360A0HP2115,HP,Hernád utca,0,wkwt
+360,360A0HP2230,HP,Hernád utca,0,wkwt
+360,360A0SZ0425,SZ,Hernád utca,0,wkwt
+360,360A0SZ0540,SZ,Hernád utca,0,wkwt
+360,360A0SZ0615,SZ,Hernád utca,0,wkwt
+360,360A0SZ0640,SZ,Hernád utca,0,wkwt
+360,360A0SZ0715,SZ,Hernád utca,0,wkwt
+360,360A0SZ0745,SZ,Hernád utca,0,wkwt
+360,360A0SZ0815,SZ,Hernád utca,0,wkwt
+360,360A0SZ0845,SZ,Hernád utca,0,wkwt
+360,360A0SZ0915,SZ,Hernád utca,0,wkwt
+360,360A0SZ0945,SZ,Hernád utca,0,wkwt
+360,360A0SZ1015,SZ,Hernád utca,0,wkwt
+360,360A0SZ1045,SZ,Hernád utca,0,wkwt
+360,360A0SZ1115,SZ,Hernád utca,0,wkwt
+360,360A0SZ1145,SZ,Hernád utca,0,wkwt
+360,360A0SZ1215,SZ,Hernád utca,0,wkwt
+360,360A0SZ1240,SZ,Hernád utca,0,wkwt
+360,360A0SZ1340,SZ,Hernád utca,0,wkwt
+360,360A0SZ1440,SZ,Hernád utca,0,wkwt
+360,360A0SZ1600,SZ,Hernád utca,0,wkwt
+360,360A0SZ1700,SZ,Hernád utca,0,wkwt
+360,360A0SZ1800,SZ,Hernád utca,0,wkwt
+360,360A0SZ1900,SZ,Hernád utca,0,wkwt
+360,360A0SZ2040,SZ,Hernád utca,0,wkwt
+360,360A0SZ2140,SZ,Hernád utca,0,wkwt
+360,360A0SZ2235,SZ,Hernád utca,0,wkwt
+360,360A0VV0425,VV,Hernád utca,0,wkwt
+360,360A0VV0540,VV,Hernád utca,0,wkwt
+360,360A0VV0640,VV,Hernád utca,0,wkwt
+360,360A0VV0800,VV,Hernád utca,0,wkwt
+360,360A0VV0900,VV,Hernád utca,0,wkwt
+360,360A0VV1000,VV,Hernád utca,0,wkwt
+360,360A0VV1100,VV,Hernád utca,0,wkwt
+360,360A0VV1240,VV,Hernád utca,0,wkwt
+360,360A0VV1340,VV,Hernád utca,0,wkwt
+360,360A0VV1440,VV,Hernád utca,0,wkwt
+360,360A0VV1600,VV,Hernád utca,0,wkwt
+360,360A0VV1700,VV,Hernád utca,0,wkwt
+360,360A0VV1800,VV,Hernád utca,0,wkwt
+360,360A0VV1900,VV,Hernád utca,0,wkwt
+360,360A0VV2040,VV,Hernád utca,0,wkwt
+360,360A0VV2140,VV,Hernád utca,0,wkwt
+360,360A0VV2235,VV,Hernád utca,0,wkwt
+360,360A1HP0450,HP,Vasútállomás,1,7q3c
+360,360A1HP0550,HP,Vasútállomás,1,7q3c
+360,360A1HP0605,HP,Vasútállomás,1,7q3c
+360,360A1HP0635,HP,Vasútállomás,1,7q3c
+360,360A1HP0655,HP,Vasútállomás,1,7q3c
+360,360A1HP0730,HP,Vasútállomás,1,7q3c
+360,360A1HP0810,HP,Vasútállomás,1,7q3c
+360,360A1HP0840,HP,Vasútállomás,1,7q3c
+360,360A1HP0910,HP,Vasútállomás,1,7q3c
+360,360A1HP0940,HP,Vasútállomás,1,7q3c
+360,360A1HP1010,HP,Vasútállomás,1,7q3c
+360,360A1HP1040,HP,Vasútállomás,1,7q3c
+360,360A1HP1110,HP,Vasútállomás,1,7q3c
+360,360A1HP1140,HP,Vasútállomás,1,7q3c
+360,360A1HP1210,HP,Vasútállomás,1,7q3c
+360,360A1HP1240,HP,Vasútállomás,1,7q3c
+360,360A1HP1310,HP,Vasútállomás,1,7q3c
+360,360A1HP1340,HP,Vasútállomás,1,7q3c
+360,360A1HP1410,HP,Vasútállomás,1,7q3c
+360,360A1HP1445,HP,Vasútállomás,1,7q3c
+360,360A1HP1510,HP,Vasútállomás,1,7q3c
+360,360A1HP1540,HP,Vasútállomás,1,7q3c
+360,360A1HP1610,HP,Vasútállomás,1,7q3c
+360,360A1HP1640,HP,Vasútállomás,1,7q3c
+360,360A1HP1710,HP,Vasútállomás,1,7q3c
+360,360A1HP1740,HP,Vasútállomás,1,7q3c
+360,360A1HP1810,HP,Vasútállomás,1,7q3c
+360,360A1HP1840,HP,Vasútállomás,1,7q3c
+360,360A1HP1910,HP,Vasútállomás,1,7q3c
+360,360A1HP1940,HP,Vasútállomás,1,7q3c
+360,360A1HP2010,HP,Vasútállomás,1,7q3c
+360,360A1HP2040,HP,Vasútállomás,1,7q3c
+360,360A1HP2110,HP,Vasútállomás,1,7q3c
+360,360A1HP2140,HP,Vasútállomás,1,7q3c
+360,360A1HP2250,HP,Vasútállomás,1,7q3c
+360,360A1SZ0450,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0605,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0640,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0705,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0740,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0810,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0840,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0910,SZ,Vasútállomás,1,7q3c
+360,360A1SZ0940,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1010,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1040,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1110,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1140,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1210,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1240,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1305,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1405,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1505,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1625,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1725,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1825,SZ,Vasútállomás,1,7q3c
+360,360A1SZ1925,SZ,Vasútállomás,1,7q3c
+360,360A1SZ2105,SZ,Vasútállomás,1,7q3c
+360,360A1SZ2205,SZ,Vasútállomás,1,7q3c
+360,360A1SZ2255,SZ,Vasútállomás,1,7q3c
+360,360A1VV0450,VV,Vasútállomás,1,7q3c
+360,360A1VV0605,VV,Vasútállomás,1,7q3c
+360,360A1VV0705,VV,Vasútállomás,1,7q3c
+360,360A1VV0825,VV,Vasútállomás,1,7q3c
+360,360A1VV0925,VV,Vasútállomás,1,7q3c
+360,360A1VV1025,VV,Vasútállomás,1,7q3c
+360,360A1VV1125,VV,Vasútállomás,1,7q3c
+360,360A1VV1305,VV,Vasútállomás,1,7q3c
+360,360A1VV1405,VV,Vasútállomás,1,7q3c
+360,360A1VV1505,VV,Vasútállomás,1,7q3c
+360,360A1VV1625,VV,Vasútállomás,1,7q3c
+360,360A1VV1725,VV,Vasútállomás,1,7q3c
+360,360A1VV1825,VV,Vasútállomás,1,7q3c
+360,360A1VV1925,VV,Vasútállomás,1,7q3c
+360,360A1VV2105,VV,Vasútállomás,1,7q3c
+360,360A1VV2205,VV,Vasútállomás,1,7q3c
+360,360A1VV2255,VV,Vasútállomás,1,7q3c
+370,370A0HP0610,HP,Alba Aréna,0,q29y
+370,370A0HP0625,HP,Alba Aréna,0,q29y
+370,370A0HP0710,HP,Alba Aréna,0,q29y
+370,370A0HP1210,HP,Alba Aréna,0,q29y
+370,370A0HP1340,HP,Alba Aréna,0,q29y
+370,370A0HP1410,HP,Alba Aréna,0,q29y
+370,370A0HP1440,HP,Alba Aréna,0,q29y
+370,370A0HP1510,HP,Alba Aréna,0,q29y
+370,370A0HP1540,HP,Alba Aréna,0,q29y
+370,370A0HP1610,HP,Alba Aréna,0,q29y
+370,370A0HP1710,HP,Alba Aréna,0,q29y
+370,370A0HP1810,HP,Alba Aréna,0,q29y
+370,370A0HP2010,HP,Alba Aréna,0,q29y
+370,370A0SZ0710,SZ,Alba Aréna,0,q29y
+370,370A0SZ1210,SZ,Alba Aréna,0,q29y
+370,370A0SZ1610,SZ,Alba Aréna,0,q29y
+370,370A0SZ2010,SZ,Alba Aréna,0,q29y
+370,370A0VV0710,VV,Alba Aréna,0,q29y
+370,370A0VV1210,VV,Alba Aréna,0,q29y
+370,370A0VV1610,VV,Alba Aréna,0,q29y
+370,370A0VV2010,VV,Alba Aréna,0,q29y
+370,370B0HP0810,HP,"Kórház, rendelőintézet",0,ln9s
+370,370B0HP1010,HP,"Kórház, rendelőintézet",0,ln9s
+370,370B0HP1640,HP,"Kórház, rendelőintézet",0,ln9s
+370,370B0HP1910,HP,"Kórház, rendelőintézet",0,ln9s
+370,370B0HP2210,HP,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ0610,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ0810,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ1010,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ1410,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ1810,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0SZ2210,SZ,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV0610,VV,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV0810,VV,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV1010,VV,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV1410,VV,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV1810,VV,"Kórház, rendelőintézet",0,ln9s
+370,370B0VV2210,VV,"Kórház, rendelőintézet",0,ln9s
+370,370C0HP0447,HP,Alba Aréna,0,zs7t
+370,370C0HP0517,HP,Alba Aréna,0,zs7t
+370,370C0HP0547,HP,Alba Aréna,0,zs7t
+370,370C0HP0602,HP,Alba Aréna,0,zs7t
+370,370C0HP0617,HP,Alba Aréna,0,zs7t
+370,370C0HP0656,HP,Alba Aréna,0,zs7t
+370,370C0HP0931,HP,Alba Aréna,0,zs7t
+370,370C0HP1131,HP,Alba Aréna,0,zs7t
+370,370C0HP1201,HP,Alba Aréna,0,zs7t
+370,370C0HP1256,HP,Alba Aréna,0,zs7t
+370,370C0HP1326,HP,Alba Aréna,0,zs7t
+370,370C0SZ0526,SZ,Alba Aréna,0,zs7t
+370,370C0SZ0931,SZ,Alba Aréna,0,zs7t
+370,370C0SZ1131,SZ,Alba Aréna,0,zs7t
+370,370C0SZ1331,SZ,Alba Aréna,0,zs7t
+370,370C0SZ1531,SZ,Alba Aréna,0,zs7t
+370,370C0SZ1731,SZ,Alba Aréna,0,zs7t
+370,370C0SZ1931,SZ,Alba Aréna,0,zs7t
+370,370C0VV0526,VV,Alba Aréna,0,zs7t
+370,370C0VV0931,VV,Alba Aréna,0,zs7t
+370,370C0VV1131,VV,Alba Aréna,0,zs7t
+370,370C0VV1331,VV,Alba Aréna,0,zs7t
+370,370C0VV1531,VV,Alba Aréna,0,zs7t
+370,370C0VV1731,VV,Alba Aréna,0,zs7t
+370,370C0VV1931,VV,Alba Aréna,0,zs7t
+370,370D0HP0711,HP,"Kórház, rendelőintézet",0,0wqk
+370,370D0HP1801,HP,"Kórház, rendelőintézet",0,0wqk
+370,370D0HP2131,HP,"Kórház, rendelőintézet",0,0wqk
+370,370D0SZ2131,SZ,"Kórház, rendelőintézet",0,0wqk
+370,370D0VV2131,VV,"Kórház, rendelőintézet",0,0wqk
+370,370E0HP2231,HP,Opole tér,0,ykca
+370,370E0HP2346,HP,Opole tér,0,ykca
+370,370E0SZ0641,SZ,Opole tér,0,ykca
+370,370E0SZ1441,SZ,Opole tér,0,ykca
+370,370E0SZ1841,SZ,Opole tér,0,ykca
+370,370E0SZ2231,SZ,Opole tér,0,ykca
+370,370E0SZ2346,SZ,Opole tér,0,ykca
+370,370E0VV0641,VV,Opole tér,0,ykca
+370,370E0VV1441,VV,Opole tér,0,ykca
+370,370E0VV1841,VV,Opole tér,0,ykca
+370,370E0VV2231,VV,Opole tér,0,ykca
+370,370E0VV2346,VV,Opole tér,0,ykca
+370,370F0HP0740,HP,Opole tér,0,sx6z
+370,370F0HP1425,HP,Opole tér,0,sx6z
+370,370F0HP1825,HP,Opole tér,0,sx6z
+370,370F1HP0440,HP,Alba Aréna,1,0ppm
+370,370F1HP0455,HP,Alba Aréna,1,0ppm
+370,370F1HP0525,HP,Alba Aréna,1,0ppm
+370,370F1HP0555,HP,Alba Aréna,1,0ppm
+370,370F1SZ0455,SZ,Alba Aréna,1,0ppm
+370,370F1VV0455,VV,Alba Aréna,1,0ppm
+380,380A0HP0515,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP0525,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP0625,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP0725,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP0825,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1025,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1125,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1225,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1315,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1425,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1525,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1625,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1725,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1825,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP1925,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP2025,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP2115,HP,Videoton Ipari Park,0,9bdd
+380,380A0HP9525,HP,Videoton Ipari Park,0,9bdd
+380,380A0SZ0515,SZ,Videoton Ipari Park,0,9bdd
+380,380A0SZ0525,SZ,Videoton Ipari Park,0,9bdd
+380,380A0SZ1315,SZ,Videoton Ipari Park,0,9bdd
+380,380A0SZ2125,SZ,Videoton Ipari Park,0,9bdd
+380,380A0VV0515,VV,Videoton Ipari Park,0,9bdd
+380,380A0VV0525,VV,Videoton Ipari Park,0,9bdd
+380,380A0VV1315,VV,Videoton Ipari Park,0,9bdd
+380,380A0VV2125,VV,Videoton Ipari Park,0,9bdd
+380,380A1HP0610,HP,Vasútállomás,1,i6bl
+380,380A1HP0620,HP,Vasútállomás,1,i6bl
+380,380A1HP0715,HP,Vasútállomás,1,i6bl
+380,380A1HP0810,HP,Vasútállomás,1,i6bl
+380,380A1HP0910,HP,Vasútállomás,1,i6bl
+380,380A1HP1010,HP,Vasútállomás,1,i6bl
+380,380A1HP1110,HP,Vasútállomás,1,i6bl
+380,380A1HP1210,HP,Vasútállomás,1,i6bl
+380,380A1HP1310,HP,Vasútállomás,1,i6bl
+380,380A1HP1410,HP,Vasútállomás,1,i6bl
+380,380A1HP1440,HP,Vasútállomás,1,i6bl
+380,380A1HP1510,HP,Vasútállomás,1,i6bl
+380,380A1HP1540,HP,Vasútállomás,1,i6bl
+380,380A1HP1610,HP,Vasútállomás,1,i6bl
+380,380A1HP1640,HP,Vasútállomás,1,i6bl
+380,380A1HP1710,HP,Vasútállomás,1,i6bl
+380,380A1HP1810,HP,Vasútállomás,1,i6bl
+380,380A1HP1910,HP,Vasútállomás,1,i6bl
+380,380A1HP2010,HP,Vasútállomás,1,i6bl
+380,380A1HP2210,HP,Vasútállomás,1,i6bl
+380,380A1SZ0610,SZ,Vasútállomás,1,i6bl
+380,380A1SZ0620,SZ,Vasútállomás,1,i6bl
+380,380A1SZ1410,SZ,Vasútállomás,1,i6bl
+380,380A1SZ2210,SZ,Vasútállomás,1,i6bl
+380,380A1VV0610,VV,Vasútállomás,1,i6bl
+380,380A1VV0620,VV,Vasútállomás,1,i6bl
+380,380A1VV1410,VV,Vasútállomás,1,i6bl
+380,380A1VV2210,VV,Vasútállomás,1,i6bl
+390,390A1HP0625,HP,Áron Nagy Lajos tér,1,chwo
+390,390A1HP1425,HP,Áron Nagy Lajos tér,1,chwo
+390,390A1HP2225,HP,Áron Nagy Lajos tér,1,chwo
+390,390A1SZ0625,SZ,Áron Nagy Lajos tér,1,chwo
+390,390A1SZ1425,SZ,Áron Nagy Lajos tér,1,chwo
+390,390A1SZ2225,SZ,Áron Nagy Lajos tér,1,chwo
+390,390A1VV0625,VV,Áron Nagy Lajos tér,1,chwo
+390,390A1VV1425,VV,Áron Nagy Lajos tér,1,chwo
+390,390A1VV2225,VV,Áron Nagy Lajos tér,1,chwo
+400,400A0HP0610,HP,Csapó utca,0,le5d
+400,400A0HP0740,HP,Csapó utca,0,le5d
+400,400A0HP0910,HP,Csapó utca,0,le5d
+400,400A0HP1040,HP,Csapó utca,0,le5d
+400,400A0HP1210,HP,Csapó utca,0,le5d
+400,400A0HP1340,HP,Csapó utca,0,le5d
+400,400A0HP1510,HP,Csapó utca,0,le5d
+400,400A0HP1640,HP,Csapó utca,0,le5d
+400,400A0HP1810,HP,Csapó utca,0,le5d
+410,410A0HP0630,HP,Csapó utca,0,spj0
+410,410A0HP0810,HP,Csapó utca,0,spj0
+410,410A0HP0940,HP,Csapó utca,0,spj0
+410,410A0HP1110,HP,Csapó utca,0,spj0
+410,410A0HP1240,HP,Csapó utca,0,spj0
+410,410A0HP1410,HP,Csapó utca,0,spj0
+410,410A0HP1540,HP,Csapó utca,0,spj0
+410,410A0HP1710,HP,Csapó utca,0,spj0
+410,410A0HP1840,HP,Csapó utca,0,spj0
+420,420A0HP0840,HP,Börgönd,0,657h
+420,420A0HP1040,HP,Börgönd,0,657h
+420,420A0HP1240,HP,Börgönd,0,657h
+420,420A0HP1340,HP,Börgönd,0,657h
+420,420A0HP1440,HP,Börgönd,0,657h
+420,420A0HP1540,HP,Börgönd,0,657h
+420,420A0HP1640,HP,Börgönd,0,657h
+420,420A0HP1740,HP,Börgönd,0,657h
+420,420A0HP1840,HP,Börgönd,0,657h
+420,420A0HP1940,HP,Börgönd,0,657h
+420,420A0HP2240,HP,Börgönd,0,657h
+420,420A0SZ0635,SZ,Börgönd,0,657h
+420,420A0SZ0905,SZ,Börgönd,0,657h
+420,420A0SZ1435,SZ,Börgönd,0,657h
+420,420A0SZ1535,SZ,Börgönd,0,657h
+420,420A0SZ1735,SZ,Börgönd,0,657h
+420,420A0SZ1935,SZ,Börgönd,0,657h
+420,420A0SZ2235,SZ,Börgönd,0,657h
+420,420A0VV0635,VV,Börgönd,0,657h
+420,420A0VV0905,VV,Börgönd,0,657h
+420,420A0VV1435,VV,Börgönd,0,657h
+420,420A0VV1535,VV,Börgönd,0,657h
+420,420A0VV1735,VV,Börgönd,0,657h
+420,420A0VV1935,VV,Börgönd,0,657h
+420,420A0VV2235,VV,Börgönd,0,657h
+420,420A1HP0630,HP,Csapó utca,1,n7ao
+420,420A1HP0705,HP,Csapó utca,1,n7ao
+420,420A1HP1030,HP,Csapó utca,1,n7ao
+420,420A1HP1230,HP,Csapó utca,1,n7ao
+420,420A1HP1920,HP,Csapó utca,1,n7ao
+420,420A1SZ0705,SZ,Csapó utca,1,n7ao
+420,420A1SZ0935,SZ,Csapó utca,1,n7ao
+420,420A1SZ1605,SZ,Csapó utca,1,n7ao
+420,420A1VV0705,VV,Csapó utca,1,n7ao
+420,420A1VV0935,VV,Csapó utca,1,n7ao
+420,420A1VV1605,VV,Csapó utca,1,n7ao
+420,420B0HP0540,HP,Börgönd,0,xorr
+420,420B0HP0640,HP,Börgönd,0,xorr
+420,420B0HP0740,HP,Börgönd,0,xorr
+420,420B0SZ0510,SZ,Börgönd,0,xorr
+420,420B0SZ1310,SZ,Börgönd,0,xorr
+420,420B0SZ2110,SZ,Börgönd,0,xorr
+420,420B0VV0510,VV,Börgönd,0,xorr
+420,420B0VV1310,VV,Börgönd,0,xorr
+420,420B0VV2110,VV,Börgönd,0,xorr
+420,420B1HP0830,HP,Csapó utca,1,7l0s
+420,420B1HP1520,HP,Csapó utca,1,7l0s
+420,420B1HP1620,HP,Csapó utca,1,7l0s
+420,420B1HP1720,HP,Csapó utca,1,7l0s
+420,420B1HP1820,HP,Csapó utca,1,7l0s
+420,420B1SZ0605,SZ,Csapó utca,1,7l0s
+420,420B1SZ1405,SZ,Csapó utca,1,7l0s
+420,420B1SZ1805,SZ,Csapó utca,1,7l0s
+420,420B1SZ2200,SZ,Csapó utca,1,7l0s
+420,420B1VV0605,VV,Csapó utca,1,7l0s
+420,420B1VV1405,VV,Csapó utca,1,7l0s
+420,420B1VV1805,VV,Csapó utca,1,7l0s
+420,420B1VV2200,VV,Csapó utca,1,7l0s
+420,420C1HP0455,HP,Budai út - Csapó utca,1,nsvx
+420,420C1HP2055,HP,Budai út - Csapó utca,1,nsvx
+420,420C1SZ0455,SZ,Budai út - Csapó utca,1,nsvx
+420,420C1SZ1255,SZ,Budai út - Csapó utca,1,nsvx
+420,420C1SZ2055,SZ,Budai út - Csapó utca,1,nsvx
+420,420C1VV0455,VV,Budai út - Csapó utca,1,nsvx
+420,420C1VV1255,VV,Budai út - Csapó utca,1,nsvx
+420,420C1VV2055,VV,Budai út - Csapó utca,1,nsvx
+430,430A0HP0530,HP,Csapó utca,0,vvg2
+430,430A0HP0600,HP,Csapó utca,0,vvg2
+430,430A0HP0630,HP,Csapó utca,0,vvg2
+430,430A0HP0700,HP,Csapó utca,0,vvg2
+430,430A0HP0730,HP,Csapó utca,0,vvg2
+430,430A0HP0800,HP,Csapó utca,0,vvg2
+430,430A0HP0830,HP,Csapó utca,0,vvg2
+430,430A0HP0900,HP,Csapó utca,0,vvg2
+430,430A0HP0930,HP,Csapó utca,0,vvg2
+430,430A0HP1000,HP,Csapó utca,0,vvg2
+430,430A0HP1030,HP,Csapó utca,0,vvg2
+430,430A0HP1100,HP,Csapó utca,0,vvg2
+430,430A0HP1130,HP,Csapó utca,0,vvg2
+430,430A0HP1200,HP,Csapó utca,0,vvg2
+430,430A0HP1230,HP,Csapó utca,0,vvg2
+430,430A0HP1300,HP,Csapó utca,0,vvg2
+430,430A0HP1330,HP,Csapó utca,0,vvg2
+430,430A0HP1400,HP,Csapó utca,0,vvg2
+430,430A0HP1430,HP,Csapó utca,0,vvg2
+430,430A0HP1500,HP,Csapó utca,0,vvg2
+430,430A0HP1530,HP,Csapó utca,0,vvg2
+430,430A0HP1600,HP,Csapó utca,0,vvg2
+430,430A0HP1630,HP,Csapó utca,0,vvg2
+430,430A0HP1700,HP,Csapó utca,0,vvg2
+430,430A0HP1730,HP,Csapó utca,0,vvg2
+430,430A0HP1805,HP,Csapó utca,0,vvg2
+430,430A0SZ0530,SZ,Csapó utca,0,vvg2
+430,430A0SZ0600,SZ,Csapó utca,0,vvg2
+430,430A0SZ0630,SZ,Csapó utca,0,vvg2
+430,430A0SZ0700,SZ,Csapó utca,0,vvg2
+430,430A0SZ0730,SZ,Csapó utca,0,vvg2
+430,430A0SZ0830,SZ,Csapó utca,0,vvg2
+430,430A0SZ0930,SZ,Csapó utca,0,vvg2
+430,430A0SZ1030,SZ,Csapó utca,0,vvg2
+430,430A0SZ1130,SZ,Csapó utca,0,vvg2
+430,430A0SZ1230,SZ,Csapó utca,0,vvg2
+430,430A0SZ1300,SZ,Csapó utca,0,vvg2
+430,430A0SZ1400,SZ,Csapó utca,0,vvg2
+430,430A0SZ1500,SZ,Csapó utca,0,vvg2
+430,430A0SZ1600,SZ,Csapó utca,0,vvg2
+430,430A0SZ1700,SZ,Csapó utca,0,vvg2
+430,430A0SZ1730,SZ,Csapó utca,0,vvg2
+430,430A0SZ1805,SZ,Csapó utca,0,vvg2
+430,430A0VV0530,VV,Csapó utca,0,vvg2
+430,430A0VV0600,VV,Csapó utca,0,vvg2
+430,430A0VV0630,VV,Csapó utca,0,vvg2
+430,430A0VV0700,VV,Csapó utca,0,vvg2
+430,430A0VV0730,VV,Csapó utca,0,vvg2
+430,430A0VV0830,VV,Csapó utca,0,vvg2
+430,430A0VV0930,VV,Csapó utca,0,vvg2
+430,430A0VV1030,VV,Csapó utca,0,vvg2
+430,430A0VV1130,VV,Csapó utca,0,vvg2
+430,430A0VV1230,VV,Csapó utca,0,vvg2
+430,430A0VV1300,VV,Csapó utca,0,vvg2
+430,430A0VV1400,VV,Csapó utca,0,vvg2
+430,430A0VV1500,VV,Csapó utca,0,vvg2
+430,430A0VV1600,VV,Csapó utca,0,vvg2
+430,430A0VV1700,VV,Csapó utca,0,vvg2
+430,430A0VV1730,VV,Csapó utca,0,vvg2
+430,430A0VV1805,VV,Csapó utca,0,vvg2
+440,440A0HP0530,HP,Csapó utca,0,4rok
+440,440A0HP0615,HP,Csapó utca,0,4rok
+440,440A0HP0645,HP,Csapó utca,0,4rok
+440,440A0HP0715,HP,Csapó utca,0,4rok
+440,440A0HP07151,HP,Csapó utca,0,4rok
+440,440A0HP0745,HP,Csapó utca,0,4rok
+440,440A0HP0815,HP,Csapó utca,0,4rok
+440,440A0HP0845,HP,Csapó utca,0,4rok
+440,440A0HP0915,HP,Csapó utca,0,4rok
+440,440A0HP0945,HP,Csapó utca,0,4rok
+440,440A0HP1015,HP,Csapó utca,0,4rok
+440,440A0HP1045,HP,Csapó utca,0,4rok
+440,440A0HP1115,HP,Csapó utca,0,4rok
+440,440A0HP1145,HP,Csapó utca,0,4rok
+440,440A0HP1215,HP,Csapó utca,0,4rok
+440,440A0HP1245,HP,Csapó utca,0,4rok
+440,440A0HP1315,HP,Csapó utca,0,4rok
+440,440A0HP1345,HP,Csapó utca,0,4rok
+440,440A0HP1415,HP,Csapó utca,0,4rok
+440,440A0HP1445,HP,Csapó utca,0,4rok
+440,440A0HP1515,HP,Csapó utca,0,4rok
+440,440A0HP1545,HP,Csapó utca,0,4rok
+440,440A0HP1615,HP,Csapó utca,0,4rok
+440,440A0HP1645,HP,Csapó utca,0,4rok
+440,440A0HP1715,HP,Csapó utca,0,4rok
+440,440A0HP1745,HP,Csapó utca,0,4rok
+440,440A0HP1815,HP,Csapó utca,0,4rok
+440,440A0HP1905,HP,Csapó utca,0,4rok
+440,440A0HP1955,HP,Csapó utca,0,4rok
+440,440A0SZ1330,SZ,Csapó utca,0,4rok
+440,440A0SZ1430,SZ,Csapó utca,0,4rok
+440,440A0SZ1530,SZ,Csapó utca,0,4rok
+440,440A0SZ1630,SZ,Csapó utca,0,4rok
+440,440A0SZ1905,SZ,Csapó utca,0,4rok
+440,440A0SZ1955,SZ,Csapó utca,0,4rok
+440,440A0VV1330,VV,Csapó utca,0,4rok
+440,440A0VV1430,VV,Csapó utca,0,4rok
+440,440A0VV1530,VV,Csapó utca,0,4rok
+440,440A0VV1630,VV,Csapó utca,0,4rok
+440,440A0VV1905,VV,Csapó utca,0,4rok
+440,440A0VV1955,VV,Csapó utca,0,4rok
+912,912A0HP2405,HP,Sóstói temető,0,8rwx
+912,912A0SZ2405,SZ,Sóstói temető,0,8rwx
+912,912A0VV2405,VV,Sóstói temető,0,8rwx

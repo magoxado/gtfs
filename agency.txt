@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
+VOLANBUSZ,MÁV Személyszállítási Zrt.,https://www.szekesfehervar.hu/buszmenetrend,Europe/Budapest,hu,3613494949,eszrevetel@mavcsoport.hu

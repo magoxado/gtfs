@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+Székesfehérvár MJV Közlekedési Iroda,https://www.szekesfehervar.hu/buszmenetrend,hu,20250301,20250831,20250224-1

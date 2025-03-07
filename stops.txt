@@ -1,0 +1,428 @@
+stop_id,stop_name,stop_lat,stop_lon,platform_code
+B1,Hernád utca,47.213420,18.350981,
+B10,Régi Csóri út,47.206296,18.381922,A
+B100,Juharfa utca,47.164371,18.426373,B
+B101,Juharfa utca,47.163623,18.426519,A
+B102,Akácfa utca,47.167649,18.425124,B
+B103,Akácfa utca,47.167653,18.424882,A
+B104,Szárcsa utca,47.174286,18.419411,B
+B105,Szárcsa utca,47.174122,18.419303,A
+B106,Börgöndi út / Akácfa utca,47.169119,18.427157,A
+B107,Börgöndi út / Akácfa utca,47.169669,18.427194,B
+B108,Sárkeresztúri út / Börgöndi út,47.172052,18.423002,A
+B109,Sárkeresztúri út / Börgöndi út,47.172155,18.423072,B
+B11,Régi Csóri út,47.206636,18.381346,B
+B110,Széchenyi utca 113.,47.175381,18.419589,A
+B111,Széchenyi utca 113.,47.175677,18.419504,B
+B112,Sóstói temető,47.177538,18.417154,B
+B113,Sóstói temető,47.177375,18.416731,A
+B114,Stadion,47.172747,18.413161,B
+B115,Stadion,47.172391,18.412661,A
+B116,Segesvári utca,47.169368,18.409951,B
+B117,Segesvári utca,47.169065,18.408898,A
+B118,Batthyány köz,47.168383,18.406376,A
+B119,Batthyány köz,47.167449,18.406111,B
+B12,Szárazréti Közösségi Központ,47.203336,18.384945,B
+B120,Rádió utca,47.160924,18.406640,A
+B121,Rádió utca,47.161738,18.406739,B
+B122,Ikarus 1. porta,47.158589,18.407008,B
+B123,Ikarus 1. porta,47.157891,18.406977,A
+B124,Ikarus 3. porta,47.155076,18.407882,B
+B125,Orsovai utca,47.155270,18.385897,A
+B126,Orsovai utca,47.155160,18.385914,B
+B127,Vízaknai utca,47.156513,18.389517,A
+B128,Vízaknai utca,47.156818,18.390712,B
+B129,Rádiótelep,47.161420,18.401888,B
+B13,Szárazréti Közösségi Központ,47.203006,18.384709,A
+B130,Rádiótelep,47.161347,18.401645,A
+B131,Szilvamag utca,47.166876,18.404303,A
+B132,Szilvamag utca,47.166955,18.404658,B
+B133,Bárándi utca,47.178782,18.425950,A
+B134,Bárándi utca,47.178480,18.425460,B
+B139,Szabadkai utca,47.192104,18.443078,B
+B14,Opole tér,47.201285,18.379639,A
+B140,Szabadkai utca,47.192307,18.442706,A
+B141,Mentőállomás,47.193062,18.437009,B
+B142,Mentőállomás,47.193499,18.435900,A
+B143,Seregélyesi út / Mártírok útja,47.189973,18.446837,A
+B144,Seregélyesi út / Mártírok útja,47.189840,18.447042,B
+B145,Raktár utca,47.189041,18.443148,B
+B146,Raktár utca,47.188561,18.441340,A
+B147,Madách Imre utca,47.187633,18.438184,A
+B148,Madách Imre utca,47.187597,18.438427,B
+B149,Kinizsi utca,47.186358,18.434566,B
+B15,Opole tér,47.201505,18.378787,B
+B150,Kinizsi utca,47.185988,18.432938,A
+B151,Gyár utca,47.184961,18.429639,A
+B152,Gyár utca,47.184596,18.428989,B
+B153,Király sor / Géza utca,47.195250,18.429044,C
+B154,Király sor / Géza utca,47.195011,18.427848,A
+B155,Király sor / Géza utca,47.194654,18.429168,B
+B156,Kisteleki utca / Géza utca,47.198601,18.433180,B
+B157,Kisteleki utca / Géza utca,47.198596,18.432982,A
+B158,Kadocsa utca,47.201277,18.436388,B
+B159,Kadocsa utca,47.201016,18.435804,A
+B16,Pityer utca / Farkasvermi utca,47.202485,18.373733,A
+B160,Karinthy tér,47.202287,18.439811,B
+B161,Karinthy tér,47.202372,18.439576,A
+B162,Karinthy Frigyes utca,47.204723,18.442081,B
+B163,Karinthy Frigyes utca,47.204775,18.440301,A
+B164,Pozsonyi út / Fiskális út,47.204795,18.444671,B
+B165,Pozsonyi út / Fiskális út,47.204918,18.444516,A
+B166,Kisteleki utca / Géza utca,47.198487,18.432423,C
+B167,Kisteleki utca / Géza utca,47.198547,18.432477,D
+B168,Huba utca,47.200441,18.428384,A
+B169,Huba utca,47.200633,18.428183,B
+B17,Pityer utca / Farkasvermi utca,47.202131,18.371273,B
+B170,Berényi út / Tompa Mihály utca,47.202385,18.424849,B
+B171,Berényi út / Tompa Mihály utca,47.202220,18.424846,A
+B172,Koppány utca,47.205253,18.419743,B
+B173,Koppány utca,47.205043,18.419890,A
+B174,Kecskeméti utca,47.206217,18.414945,A
+B175,Kecskeméti utca,47.206318,18.414890,B
+B177,Kertalja utca,47.206699,18.412288,B
+B178,Kertalja utca,47.206856,18.412020,A
+B179,Zone Bevásárlópark,47.212864,18.418486,B
+B180,Zone Bevásárlópark,47.212631,18.417936,A
+B182,Laktanyák,47.206112,18.406871,A
+B183,Ezredéves Általános Iskola,47.201842,18.408792,A
+B184,Ezredéves Általános Iskola,47.202637,18.408417,B
+B185a,Csapó utca,47.187948,18.405266,A
+B185b,Csapó utca,47.188052,18.405666,B
+B186,III. Béla király tér,47.198367,18.410042,B
+B187,III. Béla király tér,47.197551,18.409676,A
+B188,Irányi Dániel utca,47.201081,18.408579,A
+B189,Irányi Dániel utca,47.201170,18.408689,B
+B190,Szent Vendel utca,47.204260,18.406230,A
+B191,Szent Vendel utca,47.204417,18.406223,B
+B192,Fecskeparti lakótelep,47.208404,18.402971,
+B193a,Szedreskerti lakónegyed,47.200744,18.397311,A
+B193b,Szedreskerti lakónegyed,47.200590,18.397446,B
+B193c,Szedreskerti lakónegyed,47.200461,18.397554,C
+B194,Szedreskerti lakónegyed,47.200766,18.397381,D
+B195,Liget sor,47.197523,18.399941,A
+B196,Liget sor,47.198162,18.399578,B
+B197,Uszoda,47.195840,18.402476,A
+B198,Uszoda,47.195972,18.401278,B
+B199,Távirda utca,47.189477,18.416603,B
+B2,Iszkaszentgyörgyi elágazás,47.212278,18.357331,B
+B20,Virág utca,47.201274,18.367856,
+B200,Távirda utca,47.189292,18.415632,A
+B201,Gáz utca / Budai út,47.191017,18.421722,B
+B202,Gáz utca / Budai út,47.190769,18.420101,A
+B203,Gáz utca / Budai út,47.191909,18.420333,D
+B204,Gáz utca / Budai út,47.189911,18.421699,C
+B205,Lövölde utca,47.188232,18.423605,B
+B206,Lövölde utca,47.187796,18.423725,A
+B207,Zrínyi utca,47.192221,18.424952,A
+B208,Zrínyi utca,47.192456,18.426446,B
+B209,Király sor / Budai út,47.193729,18.429806,A
+B210,Király sor / Budai út,47.193780,18.430548,B
+B211,Halesz park,47.195088,18.437523,A
+B212,Halesz park,47.194991,18.439988,B
+B213,Fiskális út / Budai út,47.195044,18.446649,A
+B214,Fiskális út / Budai út,47.194817,18.447973,B
+B215,Titeli utca,47.194981,18.453394,A
+B216,Titeli utca,47.194984,18.454482,B
+B217,Zombori út,47.195512,18.457463,A
+B218,Zombori út,47.195476,18.458871,B
+B219,Bereznai utca,47.195855,18.462793,A
+B22,Szamos utca,47.200100,18.363202,
+B220,Bereznai utca,47.195753,18.464407,B
+B221,Bereznai utca,47.194867,18.463721,C
+B222,Lomnici utca / Budai út,47.196169,18.470739,A
+B223,Lomnici utca / Budai út,47.196085,18.472094,B
+B224,Stomfai utca,47.196483,18.475901,A
+B225,Stomfai utca,47.196579,18.477029,B
+B226,Nagyszombati utca / Budai út,47.197541,18.480678,B
+B227,Nagyszombati utca / Budai út,47.198176,18.482249,A
+B228,Videoton,47.208244,18.441551,E
+B23,Sajó utca / Farkasvermi utca,47.199304,18.359087,
+B230a,Videoton,47.206452,18.439153,A
+B230b,Videoton,47.206347,18.438914,B
+B231,Videoton,47.206272,18.439025,C
+B232,Cento utca,47.204705,18.435406,B
+B233,Cento utca,47.204105,18.433655,A
+B234,Hanon Systems,47.212793,18.428270,
+B235,Csucskai utca,47.210395,18.425514,A
+B236,Csucskai utca,47.211207,18.426628,B
+B237,Tesco,47.208005,18.427406,B
+B238,Tesco,47.208260,18.427321,A
+B24,Hármashíd,47.202995,18.390162,A
+B240,Álmos vezér utca,47.202661,18.427138,A
+B241,Álmos vezér utca,47.202977,18.428476,B
+B242,Vértanú utca,47.201548,18.424539,B
+B243,Vértanú utca,47.200670,18.421586,A
+B244,Olaj utca,47.199766,18.419791,B
+B245,Olaj utca,47.199682,18.419137,A
+B246,Országzászló tér,47.193749,18.411036,B
+B247,Országzászló tér,47.193979,18.410681,A
+B248,Zsuzsanna forrás,47.190536,18.412869,B
+B249,Zsuzsanna forrás,47.190627,18.412567,A
+B25,Hármashíd,47.202751,18.390657,B
+B250,Prohászka Ottokár út,47.187796,18.414724,B
+B251,Prohászka Ottokár út,47.187255,18.414932,A
+B252,Áron Nagy Lajos tér,47.194198,18.414479,A
+B253,Áron Nagy Lajos tér,47.193001,18.415431,C
+B254,Áron Nagy Lajos tér,47.194377,18.415058,B
+B255,Királykút lakónegyed,47.197558,18.415449,C
+B256,Széna tér,47.197018,18.416390,D
+B257,Széna tér,47.195370,18.417174,A
+B258,Széna tér,47.195778,18.418912,B
+B259,Széna tér,47.194874,18.418320,C
+B26,Hosszú temető,47.199259,18.394815,B
+B260,Huba köz,47.195883,18.422975,B
+B261,Huba köz,47.196066,18.422698,A
+B262,"Kórház, Rendelőintézet",47.189748,18.435071,A
+B263,"Kórház, Rendelőintézet",47.190199,18.436088,B
+B264,Szent Gellért utca,47.194593,18.401267,A
+B265,Szent Gellért utca,47.195762,18.399941,B
+B266,György Oszkár tér,47.193167,18.403499,B
+B267,György Oszkár tér,47.191812,18.404068,A
+B268a,Autóbusz-állomás,47.188830,18.408851,G
+B268b,Autóbusz-állomás,47.188501,18.409544,F
+B268c,Autóbusz-állomás,47.188368,18.409823,E
+B268d,Autóbusz-állomás,47.188241,18.410098,D
+B269a,Autóbusz-állomás,47.188533,18.408951,A
+B269b,Autóbusz-állomás,47.188301,18.409452,B
+B269c,Autóbusz-állomás,47.188168,18.409728,C
+B27,Hosszú temető,47.199063,18.394797,A
+B270a,Református Általános Iskola,47.184398,18.415116,C
+B270b,Református Általános Iskola,47.184772,18.414958,D
+B271a,Református Általános Iskola,47.184564,18.414759,A
+B271b,Református Általános Iskola,47.184348,18.414848,B
+B272,Horvát István utca,47.182151,18.416079,B
+B273,Horvát István utca,47.182078,18.415670,A
+B274,Hosszúsétatér,47.185313,18.411736,B
+B275,Hosszúsétatér,47.185188,18.411106,A
+B277c,Jancsár utca,47.182953,18.407528,B
+B278a,Jancsár utca,47.184031,18.407943,E
+B278b,Jancsár utca,47.184067,18.407867,D
+B278c,Jancsár utca,47.184101,18.407795,C
+B278d,Jancsár utca,47.183987,18.408026,F
+B279,Tóvárosi lakónegyed,47.182206,18.410151,A
+B280,Tóvárosi lakónegyed,47.182387,18.411732,B
+B281,Prohászka Ottokár templom,47.183474,18.418846,B
+B282,Prohászka Ottokár templom,47.183503,18.419165,A
+B283,Vasútállomás,47.183698,18.423298,A
+B284,Vasútállomás,47.183796,18.424535,B
+B285a,Vasútállomás,47.183944,18.425152,G
+B285b,Vasútállomás,47.183920,18.425057,F
+B285c,Vasútállomás,47.183889,18.424964,E
+B285d,Vasútállomás,47.183859,18.424866,D
+B285e,Vasútállomás,47.183830,18.424769,C
+B285g,Vasútállomás,47.183477,18.423989,I
+B286,Árpád utca,47.186404,18.422122,A
+B287,Árpád utca,47.186294,18.422369,B
+B288,Budai út / Deák Ferenc utca,47.189399,18.419680,B
+B289,Budai út / Deák Ferenc utca,47.189412,18.419526,A
+B28a,Köfém lakótelep,47.191956,18.465187,B
+B28b,Köfém lakótelep,47.192097,18.465406,C
+B28c,Köfém lakótelep,47.192233,18.465621,D
+B28d,Köfém lakótelep,47.192366,18.465836,E
+B28e,Köfém lakótelep,47.192501,18.466045,F
+B29,Köfém lakótelep,47.192186,18.464935,A
+B290,Ybl Miklós lakótelep,47.195157,18.406168,A
+B291,Ybl Miklós lakótelep,47.195132,18.406471,B
+B292,Szabadságharcos út,47.195608,18.404472,B
+B293,Szabadságharcos út,47.195209,18.404540,A
+B294,Csapó utca,47.188155,18.404723,D
+B295,II. Rákóczi Ferenc Általános Iskola,47.196282,18.410932,B
+B296,Királykút lakónegyed,47.198326,18.415925,B
+B297,Királykút lakónegyed,47.197837,18.414195,A
+B298,II. Rákóczi Ferenc Általános Iskola,47.196584,18.411380,A
+B299,Repkény utca / Seregélyesi út,47.180969,18.475092,C
+B3,Iszkaszentgyörgyi elágazás,47.211454,18.359898,A
+B30,Zombori út,47.194865,18.458897,C
+B300,Kaptár utca,47.181909,18.477528,A
+B301,Kaptár utca,47.181139,18.477881,B
+B302,Zsurló utca,47.180750,18.482378,A
+B303,Zsurló utca,47.180576,18.482955,B
+B304,Ikarus 3. porta,47.155611,18.407222,A
+B305,Vásárhelyi úti lakótelep,47.144414,18.408915,
+B306,Aszalvölgyi út,47.209602,18.425480,A
+B307,Aszalvölgyi út,47.209003,18.425922,B
+B308,Máriavölgyi elágazás,47.207576,18.444123,B
+B309,Máriavölgyi elágazás,47.207642,18.443741,A
+B31,Szivárvány Óvoda,47.192406,18.461192,A
+B310,Dunaszerdahelyi utca,47.196606,18.448774,A
+B311,Dunaszerdahelyi utca,47.196520,18.448734,B
+B312,Őrhalmi szőlők,47.154632,18.432086,A
+B313,Sóstói bevásárlóközpont,47.151181,18.432551,A
+B314,Sóstói bevásárlóközpont,47.151356,18.432810,B
+B315,Jancsár utca,47.183714,18.408015,A
+B316,Laktanyák,47.207470,18.406526,B
+B317,Zobori út,47.205411,18.454442,A
+B318,Száva utca / Farkasvermi utca,47.202019,18.376324,B
+B319,Száva utca / Farkasvermi utca,47.201872,18.376249,A
+B32,Szivárvány Óvoda,47.192168,18.461579,B
+B321,Jancsár utca,47.183960,18.407063,G
+B322,Cserepes köz,47.185658,18.401946,B
+B323,Cserepes köz,47.185618,18.401833,A
+B324,Palotavárosi tavak,47.189626,18.398991,A
+B325,Palotavárosi tavak,47.190710,18.398424,B
+B326,Beszédes József tér,47.193355,18.395040,A
+B327,Beszédes József tér,47.192556,18.396354,B
+B328,Hübner András utca,47.194611,18.393195,
+B329,Acéláruház,47.149926,18.424689,A
+B33,Zimonyi utca,47.188998,18.460349,A
+B330,Acéláruház,47.150001,18.425075,B
+B331,Macher Zrt.,47.148275,18.418975,B
+B332,Macher Zrt.,47.148301,18.418095,A
+B333,Logisztikai Központ,47.147829,18.412919,A
+B334,Logisztikai Központ,47.147709,18.412252,B
+B335,Holland fasor 15.,47.143715,18.419588,A
+B336,Holland fasor 15.,47.144025,18.420467,B
+B339,Börgöndi elágazás,47.161006,18.509748,B
+B34,Zimonyi utca,47.188957,18.460499,B
+B340,Murvás utca,47.165849,18.518556,B
+B341,Murvás utca,47.166572,18.519667,A
+B342,Börgönd,47.164390,18.521690,
+B344,Kőrösi utca,47.206184,18.352953,
+B345,Sajó utca / Rába utca,47.206943,18.357416,A
+B346,Bébic utca / Rába utca,47.206694,18.363246,A
+B348,Pityer utca / Rába utca,47.206945,18.369500,A
+B349,Sajó utca 102.,47.203001,18.357498,
+B35,Berkes Ferenc lakótelep,47.188117,18.458140,A
+B350,Csapó utca,47.188331,18.404514,C
+B353,Kálmos utca,47.182595,18.477491,A
+B354,Kálmos utca,47.182540,18.477633,B
+B355,Zsálya utca,47.183012,18.483285,B
+B356,Zsálya utca,47.183006,18.483115,A
+B357,Babér utca,47.184132,18.487694,
+B358,Csala,47.229132,18.481210,A
+B359,Videoton Ipari Park,47.208177,18.431827,
+B36,Berkes Ferenc lakótelep,47.187902,18.458524,B
+B364,Osztrák utca,47.137326,18.413880,A
+B365,Osztrák utca,47.137427,18.414280,B
+B366,Amerikai fasor forduló,47.135025,18.411633,
+B367,Japán utca,47.144812,18.409348,A
+B368,Japán utca,47.144713,18.409500,B
+B369,Maroshegyi Óvoda,47.160461,18.405749,
+B37,Pancsovai utca,47.188902,18.454995,A
+B370,Szilvamag utca,47.167101,18.403927,C
+B371,Nagyszebeni utca 9.,47.166072,18.400141,
+B372,Nagyszebeni utca 39.,47.168199,18.397307,
+B373,Nagyszebeni utca 107.,47.172515,18.395257,
+B374,Szalontai utca / Székely utca,47.172725,18.392793,
+B375,Nagybányai utca 24.,47.171101,18.393310,
+B376,Nagybányai utca 12.,47.169388,18.394288,
+B377,Brassói utca 88.,47.166225,18.396585,
+B378,Brassói utca 42.,47.163834,18.399399,
+B379,Rádiótelep,47.162185,18.401273,C
+B38,Pancsovai utca,47.188689,18.455442,B
+B380,Angol utca,47.140333,18.415838,A
+B381,Börgöndi elágazás,47.161080,18.508859,A
+B382,Repkény utca / Seregélyesi út,47.179714,18.475027,B
+B384a,Depónia - irodaház,47.240445,18.468334,A
+B384b,Depónia - irodaház,47.240328,18.467829,B
+B385,Depónia - válogató,47.245630,18.462149,
+B386,Kiskút útja,47.210907,18.415590,B
+B387,Vasútállomás déli parkoló,47.181531,18.427216,
+B388,Délivasút utca,47.181640,18.432528,B
+B389,Délivasút utca,47.181361,18.431836,A
+B39,Bácskai utca,47.190261,18.449744,A
+B390,Állatotthon,47.182452,18.437772,A
+B391,Állatotthon,47.182310,18.438200,B
+B392,Takarodó út,47.179092,18.441877,A
+B393,Takarodó út,47.179165,18.442059,B
+B394,Tejüzem,47.184882,18.456414,C
+B395,Palánkai utca,47.194922,18.467771,B
+B396,Palánkai utca,47.195060,18.467857,A
+B397,Bokor utca,47.195111,18.473371,B
+B398,Bokor utca,47.195308,18.474020,A
+B399,Kamilla utca,47.185206,18.484905,A
+B4,Bébic utca / Új Csóri út,47.210710,18.363298,A
+B40,Bácskai utca,47.189975,18.450414,B
+B400,Kamilla utca,47.186154,18.486096,B
+B401,Kamilla utca,47.186406,18.484524,C
+B402,Rozmaring utca,47.189537,18.489642,B
+B403,Rozmaring utca,47.189676,18.489239,A
+B404,Berkenye utca,47.189027,18.485559,A
+B405,Berkenye utca,47.188991,18.486262,B
+B406,Berkenye utca,47.188663,18.485903,C
+B407,Mályva utca,47.191674,18.483424,A
+B408,Mályva utca,47.191601,18.483746,B
+B409,Málna utca,47.191163,18.479363,A
+B41,Fiskális út / Budai út,47.195915,18.447395,C
+B410,Málna utca,47.191564,18.479310,B
+B411,Atlétikai Központ,47.202137,18.399462,B
+B412,Atlétikai Központ,47.202257,18.399505,A
+B414,Halász utca,47.189542,18.407056,B
+B415,Halász utca,47.190154,18.405764,A
+B416,Esze Tamás utca,47.185885,18.416138,A
+B417,Esze Tamás utca,47.185597,18.416632,B
+B418,Jancsár utca,47.183943,18.405946,L
+B419,Agyag utca,47.207825,18.422144,A
+B42,Bártfai utca,47.199289,18.446664,B
+B420,Agyag utca,47.207842,18.422399,B
+B421,Zsolnai út / Nagyszombati utca,47.203381,18.477802,A
+B422b,Alba Aréna,47.194167,18.483392,B
+B423b,Alba Aréna,47.193956,18.485559,A
+B43,Bártfai utca,47.198684,18.446619,A
+B44,Késmárki utca,47.202303,18.446011,B
+B45,Késmárki utca,47.201780,18.445975,A
+B46,Pozsonyi út / Fiskális út,47.205998,18.445216,D
+B468,Sóstói bevásárlóközpont,47.150538,18.431411,C
+B47,Pozsonyi út / Fiskális út,47.205866,18.445076,C
+B48,Máriavölgyi elágazás,47.208466,18.444655,D
+B49,Máriavölgyi elágazás,47.208818,18.444393,C
+B5,Bébic utca / Új Csóri út,47.211118,18.362400,B
+B50,Kisfalud,47.202521,18.498790,
+B51,Mátyás király utca,47.201130,18.494441,A
+B52,Mátyás király utca,47.200878,18.493945,B
+B53,Zsolnai út / Nagyszombati utca,47.204587,18.477271,B
+B54,Lomnici utca / Zsolnai út,47.204812,18.473840,B
+B55,Lomnici utca / Zsolnai út,47.205113,18.473111,A
+B56,Bányató,47.205743,18.470356,B
+B57,Bányató,47.206025,18.469493,A
+B58,Farkasdi utca,47.206407,18.464963,B
+B59,Farkasdi utca,47.206514,18.464686,A
+B6,Száva utca / Új Csóri út,47.209034,18.370683,A
+B60,Bajmóci utca,47.205487,18.460866,B
+B61,Bajmóci utca,47.205536,18.459321,A
+B62,Zobori út,47.205351,18.455150,B
+B63,Rozsnyói utca,47.205044,18.450466,B
+B64,Rozsnyói utca,47.205134,18.449859,A
+B65,Máriavölgyi elágazás,47.207365,18.445162,E
+B66,Vágújhelyi utca,47.209618,18.452526,A
+B67,Vágújhelyi utca,47.209797,18.453475,B
+B68,Pöstyéni utca,47.211281,18.457708,B
+B69,Pöstyéni utca,47.210899,18.456779,A
+B7,Száva utca / Új Csóri út,47.209377,18.370015,B
+B70,Körmöci utca,47.213058,18.461691,B
+B71,Körmöci utca,47.212722,18.460607,A
+B72,Kassai utca / Nagyszombati utca,47.214830,18.465813,A
+B73,Kassai utca / Nagyszombati utca,47.214533,18.465657,B
+B74,Béla utca,47.219900,18.459838,
+B75,Szeredi utca,47.217109,18.455029,B
+B76,Szeredi utca,47.216538,18.453451,A
+B77,Bicskei utca,47.215131,18.450868,B
+B78,Bicskei utca,47.214590,18.449300,A
+B79,Köztemető,47.212233,18.445692,B
+B8,Bodrogi utca,47.207645,18.377188,A
+B80,Köztemető,47.211662,18.444669,A
+B81,Érsekújvári utca,47.198701,18.453459,B
+B82,Érsekújvári utca,47.198712,18.453268,A
+B83,Nyitrai utca / Zobori út,47.201747,18.458664,
+B85,Tejüzem,47.186246,18.457464,B
+B86,Tejüzem,47.187017,18.456335,A
+B87,Seregélyesi út 96.,47.185258,18.460091,A
+B88,Seregélyesi út 96.,47.184491,18.461492,B
+B89,Seregélyesi út 108.,47.182711,18.466752,A
+B9,Bodrogi utca,47.208060,18.376471,B
+B90,Seregélyesi út 108.,47.182030,18.468253,B
+B91,Repkény utca / Seregélyesi út,47.181057,18.471737,A
+B92,Holland fasor 6.,47.147541,18.426235,B
+B93,Holland fasor 6.,47.147050,18.425187,A
+B94,Angol utca,47.140293,18.416004,B
+B95,Holland fasor / Amerikai fasor,47.142820,18.416985,B
+B96,Holland fasor / Amerikai fasor,47.142876,18.415787,A
+B97,Őrhalmi szőlők,47.153636,18.433299,B
+B98,Domb utca,47.156616,18.430249,A
+B99,Domb utca,47.157805,18.429460,B
+BT13,Gerle utca,47.208737,18.401557,B
+BT14,Gerle utca,47.208563,18.401483,A
+BT2,Csala,47.229084,18.480678,B
+BT4,Seregélyesi út 75.,47.190918,18.446623,
+SAR,Sár utca,47.197320,18.405967,

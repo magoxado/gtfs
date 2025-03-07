@@ -1,0 +1,42 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color,route_sort_order
+VOLANBUSZ,100,10,Szedreskerti lakónegyed - Autóbusz-állomás - Rádiótelep - Orsovai utca,3,ef86b0,FFFFFF,0
+VOLANBUSZ,10G,10G,Autóbusz-állomás - Rádiótelep,3,E5097F,FFFFFF,1
+VOLANBUSZ,110,11,Szedreskerti lakónegyed - Autóbusz-állomás - Stadion - Vásárhelyi úti lakótelep,3,b21918,FFFFFF,2
+VOLANBUSZ,11A,11A,Csapó utca - Stadion - Sóstói bevásárlóközpont,3,b21918,FFFFFF,3
+VOLANBUSZ,11G,11G,Sóstói bevásárlóközpont - Vásárhelyi út - Csapó utca,3,FF0000,FFFFFF,4
+VOLANBUSZ,120,12,Szedreskerti lakónegyed - Autóbusz-állomás - Börgöndi út - Sóstói bevásárlóközpont,3,008DD2,FFFFFF,5
+VOLANBUSZ,12A,12A,Csapó utca - Börgöndi út - Sóstói bevásárlóközpont,3,008DD2,FFFFFF,6
+VOLANBUSZ,12Y,12Y,Fecskeparti lakótelep - Autóbusz-állomás - Új Váralja sor - Zsurló utca - Babér utca,3,6FBF9A,FFFFFF,7
+VOLANBUSZ,13G,13G,Autóbusz-állomás - Vasútállomás - Zsurló utca - Babér utca,3,ab549b,FFFFFF,8
+VOLANBUSZ,140,14,Szedreskerti lakónegyed - Autóbusz-állomás - Budai út - Köfém lakótelep,3,a8d2f2,1b4b7c,9
+VOLANBUSZ,14G,14G,Autóbusz-állomás - Budai út - Mentőállomás - Köfém lakótelep - Babér utca,3,818F9A,FFFFFF,10
+VOLANBUSZ,150,15,Fecskeparti lakótelep - Móri út - Csapó utca - Szárcsa utca - Sóstói bevásárlóközpont - Sóstó Ipari Park,3,29803C,FFFFFF,11
+VOLANBUSZ,15Y,15Y,Csapó utca - Szárcsa utca - Szlovák utca - Vásárhelyi úti lakótelep,3,29803C,FFFFFF,12
+VOLANBUSZ,160,16,"Börgönd (- Babér utca) - Kórház, Rendelőintézet - Áron Nagy Lajos tér - Fecskeparti lakótelep - Kőrösi utca",3,E51955,FFFFFF,13
+VOLANBUSZ,170,17,Csapó utca - Uszoda - Áron Nagy Lajos tér - Budai út - Köfém lakótelep,3,846573,FFFFFF,14
+VOLANBUSZ,200,20,Hübner András utca - Jancsár utca - Vasútállomás - Köfém lakótelep (- Babér utca),3,008A4F,FFFFFF,15
+VOLANBUSZ,220,22,Jancsár utca - Budai út - Kisfalud,3,F4A7A9,2B2E3F,16
+VOLANBUSZ,230,23,Jancsár utca - Áron Nagy Lajos tér - Budai út - Tesco - Videoton Ipari Park,3,1d4996,FFFFFF,17
+VOLANBUSZ,23E,23E,Jancsár utca - Budai út - Fiskális út - Videoton,3,1d4996,FFFFFF,18
+VOLANBUSZ,240,24,Jancsár utca - Áron Nagy Lajos tér - Géza utca - Pozsonyi út - Zsolnai út / Nagyszombati utca (- Zsurló utca),3,a48b7c,FFFFFF,19
+VOLANBUSZ,250,25,Jancsár utca - Áron Nagy Lajos tér - Géza utca - Fiskális út - Nyitrai utca / Zobori út,3,d2dc63,484b23,20
+VOLANBUSZ,260,26,Jancsár utca - Autóbusz-állomás - Berényi út - Béla út,3,EF7F1A,FFFFFF,21
+VOLANBUSZ,26A,26A,Jancsár utca - Autóbusz-állomás - Berényi út - Kassai utca / Nagyszombati utca,3,EF7F1A,FFFFFF,22
+VOLANBUSZ,26C,26C,Autóbusz-állomás - Berényi út - Csala - Depónia,3,88BD2F,FFFFFF,23
+VOLANBUSZ,26G,26G,Autóbusz-állomás - Berényi út - Videoton,3,88BD2F,FFFFFF,24
+VOLANBUSZ,310,31,Vasútállomás - Áron Nagy Lajos tér - Budai út - Fiskális út - Béla út,3,ffdf00,6f4e17,25
+VOLANBUSZ,31E,31E,Vasútállomás - Deák Ferenc utca - Budai út - Fiskális út - Videoton,3,ffdf00,6f4e17,26
+VOLANBUSZ,320,32,Angol utca - Börgöndi út - Vasútállomás - Áron Nagy Lajos tér - Berényi út - Videoton - Kassai utca / Nagyszombati utca,3,e8388b,FFFFFF,27
+VOLANBUSZ,330,33,Vasútállomás - Fecskeparti lakótelep - Vasútállomás,3,aa97c8,FFFFFF,28
+VOLANBUSZ,340,34,Vasútállomás - Várkörút - Móri út - Fecskeparti lakótelep - Havranek József utca - Áron Nagy Lajos tér - Gáz utca - Vasútállomás,3,aa97c8,FFFFFF,29
+VOLANBUSZ,350,35,Vasútállomás - Várkörút - Áron Nagy Lajos tér - Géza utca - Tompa Mihály utca - Zone Bevásárlópark,3,bcd3dd,2a3d43,30
+VOLANBUSZ,360,36,Vasútállomás - Autóbusz-állomás - Hernád utca,3,A75F4A,FFFFFF,31
+VOLANBUSZ,370,37,"Alba Aréna - Seregélyesi út - Kórház, Rendelőintézet - Vasútállomás - Autóbusz-állomás - Kőrösi utca",3,2c4a7c,FFFFFF,32
+VOLANBUSZ,380,38,Vasútállomás - Autóbusz-állomás - Berényi út - Tesco - Videoton Ipari Park,3,E73A51,FFFFFF,33
+VOLANBUSZ,390,39,Sóstói bevásárlóközpont - Vásárhelyi utca - Vasútállomás - Áron Nagy Lajos tér,3,009CA5,FFFFFF,34
+VOLANBUSZ,400,40,"Csapó utca - Maroshegy - Kórház, Rendelőintézet - Csapó utca",3,e94f1e,FFFFFF,35
+VOLANBUSZ,410,41,"Csapó utca - Kórház, Rendelőintézet - Maroshegy - Csapó utca",3,e94f1e,FFFFFF,36
+VOLANBUSZ,420,42,Csapó utca - Áron Nagy Lajos tér - Mentőállomás (- Babér utca) - Börgönd,3,4d267c,FFFFFF,37
+VOLANBUSZ,430,43,"Csapó utca - Vasútállomás - Kórház, Rendelőintézet - Budai út - Autóbusz-állomás - Csapó utca",3,B8C8BA,2B2E3F,38
+VOLANBUSZ,440,44,"Csapó utca - Budai út - Kórház, Rendelőintézet - Vasútállomás - Autóbusz-állomás - Csapó utca",3,B8C8BA,2B2E3F,39
+VOLANBUSZ,912,912,Autóbusz-állomás - Börgöndi út - Sóstói bevásárlóközpont - Sóstói temető,3,2B2E3F,FFFFFF,40
