@@ -36,6 +36,24 @@ function parseCSV(csv) {
 
 // Load GTFS files from GitHub repository
 async function loadGTFSData() {
+    // Check if we have cached data and it's not too old
+    const cachedData = localStorage.getItem('gtfsData');
+    const cachedTimestamp = localStorage.getItem('gtfsDataTimestamp');
+    
+    // Use cached data if it's less than a day old
+    if (cachedData && cachedTimestamp && 
+        (Date.now() - parseInt(cachedTimestamp)) < 86400000) {
+        try {
+            Object.assign(gtfsData, JSON.parse(cachedData));
+            console.log('Using cached GTFS data');
+            initApp();
+            return;
+        } catch (e) {
+            console.error('Error parsing cached data:', e);
+            // Continue to fetch fresh data
+        }
+    }
+    
     const baseUrl = 'https://raw.githubusercontent.com/magoxado/gtfs/main/';
     const files = [
         'agency.txt',
@@ -72,6 +90,11 @@ async function loadGTFSData() {
         
         console.log('All GTFS data loaded successfully');
         document.body.removeChild(loadingIndicator);
+        
+        // After successfully loading data, cache it
+        localStorage.setItem('gtfsData', JSON.stringify(gtfsData));
+        localStorage.setItem('gtfsDataTimestamp', Date.now().toString());
+        
         initApp(); // Initialize the app once data is loaded
     } catch (error) {
         console.error('Error loading GTFS data:', error);
@@ -85,32 +108,3 @@ async function loadGTFSData() {
 
 // Start loading data when the script loads
 document.addEventListener('DOMContentLoaded', loadGTFSData);
-
-// Add to gtfsData.js
-async function loadGTFSData() {
-    // Check if we have cached data and it's not too old
-    const cachedData = localStorage.getItem('gtfsData');
-    const cachedTimestamp = localStorage.getItem('gtfsDataTimestamp');
-    
-    // Use cached data if it's less than a day old
-    if (cachedData && cachedTimestamp && 
-        (Date.now() - parseInt(cachedTimestamp)) < 86400000) {
-        try {
-            Object.assign(gtfsData, JSON.parse(cachedData));
-            console.log('Using cached GTFS data');
-            initApp();
-            return;
-        } catch (e) {
-            console.error('Error parsing cached data:', e);
-            // Continue to fetch fresh data
-        }
-    }
-    
-    // Original loading code...
-    const baseUrl = 'https://raw.githubusercontent.com/magoxado/gtfs/main/';
-    // ...
-    
-    // After successfully loading data, cache it
-    localStorage.setItem('gtfsData', JSON.stringify(gtfsData));
-    localStorage.setItem('gtfsDataTimestamp', Date.now().toString());
-}
